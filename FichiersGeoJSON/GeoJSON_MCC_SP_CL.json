@@ -1,1530 +1,1503 @@
-{
-	"type": "FeatureCollection",
-	"features": [
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.987278",
-					"45.295250"
-				]
-			},
-			"properties": {
-				"Nom": "Aqueduc de la RiviÃ¨re-Saint-Pierre",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93276&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontÃ©rÃ©gie",
-				"Municipalite": "Salaberry-de-Valleyfield",
-				"Adresse": "",
-				"Construction": "1843",
-				"Fonction": "Aqueducs, rÃ©servoirs d'eau et Ã©goÃ»ts",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/11931?id=8ab5d9733978b0f7013978cac5fc03c5",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2004Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-74.064861",
-					"45.481972"
-				]
-			},
-			"properties": {
-				"Nom": "Calvaire d'Oka",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93537&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Laurentides",
-				"Municipalite": "Oka",
-				"Adresse": "",
-				"Construction": "1740",
-				"Fonction": "Calvaires, croix de chemin et chemins de croix",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-70.506056",
-					"47.443028"
-				]
-			},
-			"properties": {
-				"Nom": "Domaine Cimon",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92387&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Capitale-Nationale",
-				"Municipalite": "Baie-Saint-Paul",
-				"Adresse": "58 rue Saint-Jean-BaptisteÂ¤50 rue Saint-Jean-Baptiste",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/8597?id=8ab5d9733978b0f7013978b3a927145b",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2005Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.585833",
-					"45.493889"
-				]
-			},
-			"properties": {
-				"Nom": "Domaine des Messieurs-de-Saint-Sulpice",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93303&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontrÃ©al",
-				"Municipalite": "MontrÃ©al",
-				"Adresse": " rue Sherbrooke Ouest",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-71.848694",
-					"46.667194"
-				]
-			},
-			"properties": {
-				"Nom": "Domaine Joly-De LotbiniÃ¨re",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93116&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "ChaudiÃ¨re-Appalaches",
-				"Municipalite": "LotbiniÃ¨reÂ¤Sainte-Croix",
-				"Adresse": "",
-				"Construction": "1851",
-				"Fonction": "Villas et maisons bourgeoises (domaine)",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/11705?id=8ab5d9733978b0f7013978c567794c9e",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2004Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.797500",
-					"45.619389"
-				]
-			},
-			"properties": {
-				"Nom": "Domaine Louis-Philippe-HÃ©bert",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92470&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Laurentides",
-				"Municipalite": "RosemÃ¨re",
-				"Adresse": " rue de l'ÃŽle-BÃ©lair Ouest",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/8988?id=8ab5d9733978b0f7013978b1f5ff07c3",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2004Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-70.517528",
-					"47.075556"
-				]
-			},
-			"properties": {
-				"Nom": "Domaine seigneurial de l'ÃŽle-aux-Grues",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92472&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "ChaudiÃ¨re-Appalaches",
-				"Municipalite": "Saint-Antoine-de-l'Isle-aux-Grues",
-				"Adresse": "320 chemin du Roi",
-				"Construction": "1769",
-				"Fonction": "Manoirs seigneuriaux",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/202441?id=8ab5d9733f0e449b013f107c80f201b4",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2004Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.150194",
-					"45.890222"
-				]
-			},
-			"properties": {
-				"Nom": "Domaine seigneurial de Saint-Ours",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92494&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontÃ©rÃ©gie",
-				"Municipalite": "Saint-Ours",
-				"Adresse": "2500 rue de l'ImmaculÃ©e-Conception",
-				"Construction": "1792",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-69.538722",
-					"47.841306"
-				]
-			},
-			"properties": {
-				"Nom": "Domaine seigneurial Fraser",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92570&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Bas-Saint-Laurent",
-				"Municipalite": "RiviÃ¨re-du-Loup",
-				"Adresse": "32 rue Fraser",
-				"Construction": "1829",
-				"Fonction": "Manoirs seigneuriaux",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/9386?id=8ab5d9733f0e449b013f1087cd7e01f5",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2004Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-72.890167",
-					"45.442778"
-				]
-			},
-			"properties": {
-				"Nom": "Ensemble religieux de Saint-Paul-d'Abbotsford",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93298&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontÃ©rÃ©gie",
-				"Municipalite": "Saint-Paul-d'Abbotsford",
-				"Adresse": " rang de la Montagne",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-68.901000",
-					"47.691083"
-				]
-			},
-			"properties": {
-				"Nom": "Fort Ingall",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92977&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Bas-Saint-Laurent",
-				"Municipalite": "TÃ©miscouata-sur-le-Lac",
-				"Adresse": "81 rue Caldwell",
-				"Construction": "1839",
-				"Fonction": "Installations de dÃ©fense militaire",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-72.830833",
-					"46.282222"
-				]
-			},
-			"properties": {
-				"Nom": "L'Enfilade-de-Maisons-en-Brique-Rouge-de-Yamachiche",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=98269&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Mauricie",
-				"Municipalite": "Yamachiche",
-				"Adresse": "",
-				"Construction": "aprÃ¨s 1850",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.594984",
-					"45.494922"
-				]
-			},
-			"properties": {
-				"Nom": "L'ÃŽlot-Trafalgar-Gleneagles",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93402&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontrÃ©al",
-				"Municipalite": "MontrÃ©al",
-				"Adresse": " chemin de la CÃ´te-des-Neiges",
-				"Construction": "1907",
-				"Fonction": "",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12460?id=8ab5d9733978b0f7013978ca69b27f0d",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2004Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.554556",
-					"45.502500"
-				]
-			},
-			"properties": {
-				"Nom": "Lieu de fondation de MontrÃ©al",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93536&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontrÃ©al",
-				"Municipalite": "MontrÃ©al",
-				"Adresse": "",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13016?id=8ab5d9733978b0f7013978c9758f7475",
-				"Droits_image": "Christian Lemire2008Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.070306",
-					"46.229222"
-				]
-			},
-			"properties": {
-				"Nom": "Magasin gÃ©nÃ©ral Le Brun",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93447&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Mauricie",
-				"Municipalite": "MaskinongÃ©",
-				"Adresse": "192 route du Pied-de-la-CÃ´te",
-				"Construction": "",
-				"Fonction": "Magasins gÃ©nÃ©raux",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12679?id=8ab5d9733f89dd36013f8bf3da0e0220",
-				"Droits_image": "Marie-Claude CÃ´tÃ©2003Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-79.191444",
-					"46.832250"
-				]
-			},
-			"properties": {
-				"Nom": "Poste de relais pour le flottage du bois d'OpÃ©mican",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92596&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Abitibi-TÃ©miscamingue",
-				"Municipalite": "TÃ©miscaming",
-				"Adresse": " route 101",
-				"Construction": "1883",
-				"Fonction": "Camps forestiers, drave et transport du bois",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/9516?id=8ab5d97339c5eaa90139e125d2e021a8",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2004Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-77.270778",
-					"45.951917"
-				]
-			},
-			"properties": {
-				"Nom": "Poste de traite du Lac-aux-Allumettes",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93502&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Outaouais",
-				"Municipalite": "Sheenboro",
-				"Adresse": " chemin Perrault",
-				"Construction": "",
-				"Fonction": "Postes de traite",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-71.083222",
-					"48.420639"
-				]
-			},
-			"properties": {
-				"Nom": "Pulperie de Chicoutimi",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92845&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Saguenay--Lac-Saint-Jean",
-				"Municipalite": "Saguenay",
-				"Adresse": " rue Dubuc",
-				"Construction": "1897",
-				"Fonction": "Usines de pÃ¢tes et papiers",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.656806",
-					"45.424250"
-				]
-			},
-			"properties": {
-				"Nom": "Site archÃ©ologique de l'Ã‰glise-des-Saints-Anges-de-Lachine",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=95504&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontrÃ©al",
-				"Municipalite": "MontrÃ©al",
-				"Adresse": " boulevard LaSalle",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/14182?id=8ab5d9733978b0f7013978b512052058",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2006Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-57.139694",
-					"51.389361"
-				]
-			},
-			"properties": {
-				"Nom": "Site archÃ©ologique de l'ÃŽle-au-Bois",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92706&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "CÃ´te-Nord",
-				"Municipalite": "Blanc-Sablon",
-				"Adresse": "",
-				"Construction": "",
-				"Fonction": "Industrie de la transformation du poisson et des mammifÃ¨res marins",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-71.967444",
-					"48.422000"
-				]
-			},
-			"properties": {
-				"Nom": "Site archÃ©ologique de la MÃ©tabetchouane",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93572&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Saguenay--Lac-Saint-Jean",
-				"Municipalite": "Chambord",
-				"Adresse": " route 169",
-				"Construction": "1676",
-				"Fonction": "Postes de traite",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.966667",
-					"45.318611"
-				]
-			},
-			"properties": {
-				"Nom": "Site archÃ©ologique de la Pointe-du-Buisson",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92788&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontÃ©rÃ©gie",
-				"Municipalite": "Beauharnois",
-				"Adresse": "333 rue Ã‰mond",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-57.143944",
-					"51.425528"
-				]
-			},
-			"properties": {
-				"Nom": "Site archÃ©ologique de la Rive-Ouest-de-la-Blanc-Sablon",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92707&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "CÃ´te-Nord",
-				"Municipalite": "Blanc-Sablon",
-				"Adresse": "",
-				"Construction": "",
-				"Fonction": "Industrie de la transformation du poisson et des mammifÃ¨res marins",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-64.699778",
-					"48.325667"
-				]
-			},
-			"properties": {
-				"Nom": "Site archÃ©ologique de Pabos",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92580&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "GaspÃ©sie--ÃŽles-de-la-Madeleine",
-				"Municipalite": "Chandler",
-				"Adresse": " rue de la Plage",
-				"Construction": "",
-				"Fonction": "PÃªcheries fixes",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-69.448944",
-					"48.285658"
-				]
-			},
-			"properties": {
-				"Nom": "Site archÃ©ologique des Basques-de-l'Anse-Ã -la-Cave",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=98954&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "CÃ´te-Nord",
-				"Municipalite": "Les Bergeronnes",
-				"Adresse": " Rang 1",
-				"Construction": "",
-				"Fonction": "Industrie de la transformation du poisson et des mammifÃ¨res marins",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.371250",
-					"45.383306"
-				]
-			},
-			"properties": {
-				"Nom": "Site archÃ©ologique des Casernes-de-Blairfindie",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92492&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontÃ©rÃ©gie",
-				"Municipalite": "Saint-Jean-sur-Richelieu",
-				"Adresse": "",
-				"Construction": "1814",
-				"Fonction": "Installations de dÃ©fense militaire",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-72.869722",
-					"46.503111"
-				]
-			},
-			"properties": {
-				"Nom": "Site archÃ©ologique des Forges-Grondin",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92520&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Mauricie",
-				"Municipalite": "Saint-Boniface",
-				"Adresse": " chemin du Lac-des-ÃŽles",
-				"Construction": "1878",
-				"Fonction": "SidÃ©rurgies et fonderies de ferÂ¤ForgesÂ¤Extraction miniÃ¨re: minÃ©raux mÃ©talliques",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.556073",
-					"45.500352"
-				]
-			},
-			"properties": {
-				"Nom": "Site archÃ©ologique du MarchÃ©-Sainte-Anne-et-du-Parlement-du-Canada-Uni",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=158322&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontrÃ©al",
-				"Municipalite": "MontrÃ©al",
-				"Adresse": "",
-				"Construction": "",
-				"Fonction": "Halles et place du marchÃ©Â¤HÃ´tel du Parlement et ministÃ¨resÂ¤Squares, parcs urbains et grands jardins",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-59.588083",
-					"50.479250"
-				]
-			},
-			"properties": {
-				"Nom": "Site archÃ©ologique du Poste-de-NÃ©tagamiou",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92726&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "CÃ´te-Nord",
-				"Municipalite": "CÃ´te-Nord-du-Golfe-du-Saint-Laurent",
-				"Adresse": "",
-				"Construction": "",
-				"Fonction": "Industrie de la transformation du poisson et des mammifÃ¨res marinsÂ¤Postes de traite",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10082?id=8ab5d97339c5eaa90139e12441820fd0",
-				"Droits_image": "1974Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.785750",
-					"49.195806"
-				]
-			},
-			"properties": {
-				"Nom": "Site archÃ©ologique du Poste-de-Traite-de-l'Ashuapmushuan",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93541&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Saguenay--Lac-Saint-Jean",
-				"Municipalite": "Lac-Ashuapmushuan",
-				"Adresse": "",
-				"Construction": "",
-				"Fonction": "Postes de traite",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.148001",
-					"45.986198"
-				]
-			},
-			"properties": {
-				"Nom": "Site archÃ©ologique Mandeville",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92503&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontÃ©rÃ©gie",
-				"Municipalite": "Sorel-Tracy",
-				"Adresse": "13500 chemin Saint-Roch",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-77.765139",
-					"48.093944"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de l'Ancienne-Mine-Lamaque",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=159651&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Abitibi-TÃ©miscamingue",
-				"Municipalite": "Val-d'Or",
-				"Adresse": "90 avenue Perrault",
-				"Construction": "aprÃ¨s 1934",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.386944",
-					"45.042500"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de l'Ã‰glise-d'Odelltown",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93137&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontÃ©rÃ©gie",
-				"Municipalite": "Lacolle",
-				"Adresse": " route 221",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.927222",
-					"45.318889"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de l'EntrÃ©e-InfÃ©rieure-de-l'Ancien-Canal-de-Beauharnois",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93411&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontÃ©rÃ©gie",
-				"Municipalite": "Beauharnois",
-				"Adresse": " rue Bourcier",
-				"Construction": "1842",
-				"Fonction": "Canaux de navigation",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12506?id=8ab5d9733978b0f7013978ca33cb7cbd",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2006Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-74.126611",
-					"45.257167"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de l'EntrÃ©e-SupÃ©rieure-de-l'Ancien-Canal-de-Beauharnois",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93275&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontÃ©rÃ©gie",
-				"Municipalite": "Salaberry-de-Valleyfield",
-				"Adresse": " rue Victoria",
-				"Construction": "1842",
-				"Fonction": "Canaux de navigation",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-71.202500",
-					"46.812778"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de l'Habitation-Samuel-De Champlain",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=97606&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Capitale-Nationale",
-				"Municipalite": "QuÃ©bec",
-				"Adresse": "",
-				"Construction": "1608",
-				"Fonction": "Monuments et lieux commÃ©moratifs",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-71.144472",
-					"46.890222"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de la Chute-Montmorency",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93580&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Capitale-Nationale",
-				"Municipalite": "BoischatelÂ¤QuÃ©bec",
-				"Adresse": "",
-				"Construction": "1800",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-61.835833",
-					"47.236889"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de La Grave",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93506&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "GaspÃ©sie--ÃŽles-de-la-Madeleine",
-				"Municipalite": "Les ÃŽles-de-la-Madeleine",
-				"Adresse": "",
-				"Construction": "",
-				"Fonction": "PÃªcheries fixes",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-79.015583",
-					"48.239306"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de la Maison-Dumulon",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92793&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Abitibi-TÃ©miscamingue",
-				"Municipalite": "Rouyn-Noranda",
-				"Adresse": "191 avenue du Lac",
-				"Construction": "1923",
-				"Fonction": "Bureaux de poste",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10452?id=8ab5d97339c5eaa90139e122f14d02b0",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2004Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.608250",
-					"45.480750"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de la Maison-Hurtubise",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93509&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontrÃ©al",
-				"Municipalite": "Westmount",
-				"Adresse": " chemin de la CÃ´te-Saint-Antoine",
-				"Construction": "",
-				"Fonction": "Maisons rurales et urbaines",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12898?id=8ab5d9733978b0f7013978c98aa57573",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2004Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.587150",
-					"45.498982"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de la Maison-John-Wilson-McConnell",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93288&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontrÃ©al",
-				"Municipalite": "MontrÃ©al",
-				"Adresse": "1475 avenue des Pins OuestÂ¤1518 avenue Cedar",
-				"Construction": "",
-				"Fonction": "Maisons rurales et urbaines",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/11964?id=8ab5d9733978b0f7013978caa6eb023b",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2004Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-75.725972",
-					"45.424611"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de la Maison-Wright-Scott",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92978&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Outaouais",
-				"Municipalite": "Gatineau",
-				"Adresse": "28 boulevard Alexandre-TachÃ©",
-				"Construction": "vers 1875",
-				"Fonction": "Villas et maisons bourgeoises (domaine)",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.051694",
-					"45.665306"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de La PrÃ©sentation-de-la-Sainte-Vierge",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92765&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontÃ©rÃ©gie",
-				"Municipalite": "La PrÃ©sentation",
-				"Adresse": " rue de l'Ã‰glise",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-71.303455",
-					"46.778740"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de la Visitation",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92811&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Capitale-Nationale",
-				"Municipalite": "QuÃ©bec",
-				"Adresse": "801 route de l'Ã‰gliseÂ¤2825 chemin Sainte-Foy",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-71.694944",
-					"46.744000"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de pÃªche DÃ©ry",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93550&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Capitale-Nationale",
-				"Municipalite": "Pont-Rouge",
-				"Adresse": " rue DÃ©ry",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13075?id=8ab5d9733978b0f7013978c2a4c92cb8",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2006Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-67.222083",
-					"48.352194"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de pÃªche Matamajaw",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92719&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Bas-Saint-Laurent",
-				"Municipalite": "Causapscal",
-				"Adresse": " rue Saint-Jacques Sud",
-				"Construction": "1873",
-				"Fonction": "Clubs de chasse et pÃªche",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10059?id=8ab5d97339c5eaa90139e124508a108c",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2004Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-79.299556",
-					"48.552194"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de Rapide-Danseur",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93503&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Abitibi-TÃ©miscamingue",
-				"Municipalite": "Rapide-Danseur",
-				"Adresse": " rue du Village",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12874?id=8ab5d9733978b0f7013978c35984334c",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2004Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-57.138083",
-					"51.424667"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de Room's Point",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92721&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "CÃ´te-Nord",
-				"Municipalite": "Blanc-Sablon",
-				"Adresse": "",
-				"Construction": "",
-				"Fonction": "Industrie de la transformation du poisson et des mammifÃ¨res marins",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10062?id=8ab5d97339c5eaa90139e1244c9e105a",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2005Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-70.714528",
-					"46.887417"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de Saint-FranÃ§ois-de-la-RiviÃ¨re-du-Sud",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92808&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "ChaudiÃ¨re-Appalaches",
-				"Municipalite": "Saint-FranÃ§ois-de-la-RiviÃ¨re-du-Sud",
-				"Adresse": " chemin Saint-FranÃ§ois Ouest",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10521?id=8ab5d9733953eaff013978a11a531502",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2006Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-70.881972",
-					"46.310944"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de Saint-Joseph-de-Beauce",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93478&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "ChaudiÃ¨re-Appalaches",
-				"Municipalite": "Saint-Joseph-de-Beauce",
-				"Adresse": "",
-				"Construction": "1865",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-71.786944",
-					"46.670333"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de Sainte-Famille",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92689&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Capitale-Nationale",
-				"Municipalite": "Cap-SantÃ©",
-				"Adresse": "30 place de l'Ã‰gliseÂ¤ cÃ´te du Quai",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.178167",
-					"46.081278"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial de Sainte-GeneviÃ¨ve",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105201&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "LanaudiÃ¨re",
-				"Municipalite": "BerthiervilleÂ¤Sainte-GeneviÃ¨ve-de-Berthier",
-				"Adresse": "",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-71.379944",
-					"46.220028"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial des Ã‰glises-de-Kinnear's Mills",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93543&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "ChaudiÃ¨re-Appalaches",
-				"Municipalite": "Kinnear's Mills",
-				"Adresse": " rue des FondateursÂ¤ rue des Ã‰glises",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-61.823444",
-					"50.181667"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial des Galets",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=98891&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "CÃ´te-Nord",
-				"Municipalite": "Natashquan",
-				"Adresse": "",
-				"Construction": "",
-				"Fonction": "Industrie de la transformation du poisson et des mammifÃ¨res marins",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-72.536833",
-					"46.343778"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial des RÃ©collets-de-Trois-RiviÃ¨res",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93285&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Mauricie",
-				"Municipalite": "Trois-RiviÃ¨res",
-				"Adresse": "787 rue des UrsulinesÂ¤809 rue des UrsulinesÂ¤807 rue des UrsulinesÂ¤805 rue des UrsulinesÂ¤803 rue des UrsulinesÂ¤801 rue des UrsulinesÂ¤799 rue des UrsulinesÂ¤797 rue des UrsulinesÂ¤795 rue des UrsulinesÂ¤793 rue des UrsulinesÂ¤811 rue des UrsulinesÂ¤789 rue des UrsulinesÂ¤791 rue des Ursulines",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/201671?id=8ab5d9733da5c767013da740201f00d7",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2006Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-65.254250",
-					"48.021194"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial du Banc-de-PÃªche-de-PaspÃ©biac",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93319&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "GaspÃ©sie--ÃŽles-de-la-Madeleine",
-				"Municipalite": "PaspÃ©biac",
-				"Adresse": " 3e Rue",
-				"Construction": "",
-				"Fonction": "PÃªcheries fixes",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12128?id=8ab5d9733978b0f7013978c084ce167e",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2004Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-70.734222",
-					"46.934667"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial du Manoir-DÃ©nÃ©chaud",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92573&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "ChaudiÃ¨re-Appalaches",
-				"Municipalite": "Berthier-sur-Mer",
-				"Adresse": "101 rue de la Marina",
-				"Construction": "",
-				"Fonction": "Manoirs seigneuriaux",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/9400?id=8ab5d9733978b0f7013978b81fc43e90",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2006Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-71.210556",
-					"46.815278"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial du MonastÃ¨re-des-Augustines-de-l'HÃ´tel-Dieu-de-QuÃ©bec",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93477&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Capitale-Nationale",
-				"Municipalite": "QuÃ©bec",
-				"Adresse": "75 rue des RempartsÂ¤32 rue Charlevoix",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-72.689639",
-					"46.287972"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial du Moulin-Seigneurial-de-Tonnancour",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=95649&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Mauricie",
-				"Municipalite": "Trois-RiviÃ¨res",
-				"Adresse": "",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-71.075556",
-					"48.428889"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial du Poste-de-Traite-de-Chicoutimi",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92593&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Saguenay--Lac-Saint-Jean",
-				"Municipalite": "Saguenay",
-				"Adresse": " boulevard du Saguenay Ouest",
-				"Construction": "",
-				"Fonction": "Postes de traite",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/9506?id=8ab5d97339c5eaa90139e125dc782226",
-				"Droits_image": "1985Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-71.076583",
-					"48.424250"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial du SacrÃ©-Coeur",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92960&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Saguenay--Lac-Saint-Jean",
-				"Municipalite": "Saguenay",
-				"Adresse": " rue BossÃ©",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/11180?id=8ab5d9733978b0f7013978c66d8d588a",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2004Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-72.258250",
-					"46.482111"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial du Vieux-PresbytÃ¨re-de-Batiscan",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92708&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Mauricie",
-				"Municipalite": "Batiscan",
-				"Adresse": "340 rue Principale",
-				"Construction": "1816",
-				"Fonction": "PresbytÃ¨res et bÃ¢timents associÃ©s",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.556361",
-					"45.503917"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial du Vieux-SÃ©minaire-de-Saint-Sulpice",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92755&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontrÃ©al",
-				"Municipalite": "MontrÃ©al",
-				"Adresse": "116 rue Notre-Dame OuestÂ¤130 rue Notre-Dame Ouest",
-				"Construction": "1684",
-				"Fonction": "CollÃ¨ges, sÃ©minaires et universitÃ©s",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-77.770222",
-					"48.095500"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial du Village-Minier-de-Bourlamaque",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92836&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Abitibi-TÃ©miscamingue",
-				"Municipalite": "Val-d'Or",
-				"Adresse": " avenue Perrault",
-				"Construction": "1935",
-				"Fonction": "Maisons rurales et urbainesÂ¤Extraction miniÃ¨re: minÃ©raux mÃ©talliques",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-73.666250",
-					"45.429778"
-				]
-			},
-			"properties": {
-				"Nom": "Site patrimonial Le Ber-Le Moyne",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93274&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "MontrÃ©al",
-				"Municipalite": "MontrÃ©al",
-				"Adresse": "110 chemin de LaSalleÂ¤100 chemin de LaSalleÂ¤120 chemin de LaSalle",
-				"Construction": "",
-				"Fonction": "Maisons rurales et urbainesÂ¤Chalets et rÃ©sidences secondairesÂ¤Postes de traite",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/11924?id=8ab5d9733978b0f7013978cacbc00411",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2004Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-72.903889",
-					"51.068889"
-				]
-			},
-			"properties": {
-				"Nom": "Sites archÃ©ologiques de la Colline-Blanche",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92716&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Nord-du-QuÃ©bec",
-				"Municipalite": "Baie-James",
-				"Adresse": "",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-69.550528",
-					"48.230167"
-				]
-			},
-			"properties": {
-				"Nom": "Sites archÃ©ologiques de la Pointe-Ã -John",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92521&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "CÃ´te-Nord",
-				"Municipalite": "Les Bergeronnes",
-				"Adresse": " rue de la Mer",
-				"Construction": "",
-				"Fonction": "",
-				"URL_image": ""
-			}
-		},
-		{
-			"type": "Feature",
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					"-72.166361",
-					"48.437917"
-				]
-			},
-			"properties": {
-				"Nom": "Village historique de Val-Jalbert",
-				"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92690&type=bien",
-				"Statut": "Classement",
-				"Categorie": "Site patrimonial",
-				"Region": "Saguenay--Lac-Saint-Jean",
-				"Municipalite": "Chambord",
-				"Adresse": " rue Saint-Georges",
-				"Construction": "1901",
-				"Fonction": "Usines de pÃ¢tes et papiers",
-				"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/9920?id=8ab5d9733978b0f7013978b72807367a",
-				"Droits_image": "Jean-FranÃ§ois Rodrigue2007Â©MinistÃ¨re de la Culture et des Communications"
-			}
-		}
+ {
+"type": "FeatureCollection",
+"features": [
+ 
+{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.987278,
+45.295250
+]
 
-	]
+},
+"properties": {
+"Nom": "Aqueduc de la Rivière-Saint-Pierre",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93276&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montérégie",
+"Municipalite": "Salaberry-de-Valleyfield",
+"Adresse": "",
+"Construction": "1843",
+"Fonction": "Aqueducs, réservoirs d'eau et égoûts",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/11931?id=8ab5d9733978b0f7013978cac5fc03c5",
+"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-74.064861,
+45.481972
+]
+
+},
+"properties": {
+"Nom": "Calvaire d'Oka",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93537&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Laurentides",
+"Municipalite": "Oka",
+"Adresse": "",
+"Construction": "1740",
+"Fonction": "Calvaires, croix de chemin et chemins de croix",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-70.506056,
+47.443028
+]
+
+},
+"properties": {
+"Nom": "Domaine Cimon",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92387&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Capitale-Nationale",
+"Municipalite": "Baie-Saint-Paul",
+"Adresse": "50, 58 rue Saint-Jean-Baptiste",
+"Construction": "",
+"Fonction": "",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/8597?id=8ab5d9733978b0f7013978b3a927145b",
+"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.585833,
+45.493889
+]
+
+},
+"properties": {
+"Nom": "Domaine des Messieurs-de-Saint-Sulpice",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93303&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montréal",
+"Municipalite": "Montréal",
+"Adresse": " rue Sherbrooke Ouest",
+"Construction": "",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-71.848694,
+46.667194
+]
+
+},
+"properties": {
+"Nom": "Domaine Joly-De Lotbinière",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93116&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Chaudière-Appalaches",
+"Municipalite": "Lotbinière¤Sainte-Croix",
+"Adresse": "",
+"Construction": "1851",
+"Fonction": "Villas et maisons bourgeoises (domaine)",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/11705?id=8ab5d9733978b0f7013978c567794c9e",
+"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.797500,
+45.619389
+]
+
+},
+"properties": {
+"Nom": "Domaine Louis-Philippe-Hébert",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92470&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Laurentides",
+"Municipalite": "Rosemère",
+"Adresse": " rue de l'Île-Bélair Ouest",
+"Construction": "",
+"Fonction": "",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/8988?id=8ab5d9733978b0f7013978b1f5ff07c3",
+"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-70.517528,
+47.075556
+]
+
+},
+"properties": {
+"Nom": "Domaine seigneurial de l'Île-aux-Grues",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92472&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Chaudière-Appalaches",
+"Municipalite": "Saint-Antoine-de-l'Isle-aux-Grues",
+"Adresse": "320 chemin du Roi",
+"Construction": "1769",
+"Fonction": "Manoirs seigneuriaux",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/202441?id=8ab5d9733f0e449b013f107c80f201b4",
+"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.150194,
+45.890222
+]
+
+},
+"properties": {
+"Nom": "Domaine seigneurial de Saint-Ours",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92494&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montérégie",
+"Municipalite": "Saint-Ours",
+"Adresse": "2500 rue de l'Immaculée-Conception",
+"Construction": "1792",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-69.538722,
+47.841306
+]
+
+},
+"properties": {
+"Nom": "Domaine seigneurial Fraser",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92570&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Bas-Saint-Laurent",
+"Municipalite": "Rivière-du-Loup",
+"Adresse": "32 rue Fraser",
+"Construction": "1829",
+"Fonction": "Manoirs seigneuriaux",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/9386?id=8ab5d9733f0e449b013f1087cd7e01f5",
+"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-72.890167,
+45.442778
+]
+
+},
+"properties": {
+"Nom": "Ensemble religieux de Saint-Paul-d'Abbotsford",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93298&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montérégie",
+"Municipalite": "Saint-Paul-d'Abbotsford",
+"Adresse": " rang de la Montagne",
+"Construction": "",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-68.901000,
+47.691083
+]
+
+},
+"properties": {
+"Nom": "Fort Ingall",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92977&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Bas-Saint-Laurent",
+"Municipalite": "Témiscouata-sur-le-Lac",
+"Adresse": "81 rue Caldwell",
+"Construction": "1839",
+"Fonction": "Installations de défense militaire",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-72.830833,
+46.282222
+]
+
+},
+"properties": {
+"Nom": "L'Enfilade-de-Maisons-en-Brique-Rouge-de-Yamachiche",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=98269&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Mauricie",
+"Municipalite": "Yamachiche",
+"Adresse": "",
+"Construction": "après 1850",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.594984,
+45.494922
+]
+
+},
+"properties": {
+"Nom": "L'Îlot-Trafalgar-Gleneagles",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93402&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montréal",
+"Municipalite": "Montréal",
+"Adresse": " chemin de la Côte-des-Neiges",
+"Construction": "1907",
+"Fonction": "",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12460?id=8ab5d9733978b0f7013978ca69b27f0d",
+"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.554556,
+45.502500
+]
+
+},
+"properties": {
+"Nom": "Lieu de fondation de Montréal",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93536&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montréal",
+"Municipalite": "Montréal",
+"Adresse": "",
+"Construction": "",
+"Fonction": "",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13016?id=8ab5d9733978b0f7013978c9758f7475",
+"Droits_image": "Christian Lemire 2008 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.070306,
+46.229222
+]
+
+},
+"properties": {
+"Nom": "Magasin général Le Brun",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93447&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Mauricie",
+"Municipalite": "Maskinongé",
+"Adresse": "192 route du Pied-de-la-Côte",
+"Construction": "",
+"Fonction": "Magasins généraux",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12679?id=8ab5d9733f89dd36013f8bf3da0e0220",
+"Droits_image": "Marie-Claude Côté 2003 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.191444,
+46.832250
+]
+
+},
+"properties": {
+"Nom": "Poste de relais pour le flottage du bois d'Opémican",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92596&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Abitibi-Témiscamingue",
+"Municipalite": "Témiscaming",
+"Adresse": " route 101",
+"Construction": "1883",
+"Fonction": "Camps forestiers, drave et transport du bois",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/9516?id=8ab5d97339c5eaa90139e125d2e021a8",
+"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-77.270778,
+45.951917
+]
+
+},
+"properties": {
+"Nom": "Poste de traite du Lac-aux-Allumettes",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93502&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Outaouais",
+"Municipalite": "Sheenboro",
+"Adresse": " chemin Perrault",
+"Construction": "",
+"Fonction": "Postes de traite",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-71.083222,
+48.420639
+]
+
+},
+"properties": {
+"Nom": "Pulperie de Chicoutimi",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92845&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Saguenay--Lac-Saint-Jean",
+"Municipalite": "Saguenay",
+"Adresse": " rue Dubuc",
+"Construction": "1897",
+"Fonction": "Usines de pâtes et papiers",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.656806,
+45.424250
+]
+
+},
+"properties": {
+"Nom": "Site archéologique de l'Église-des-Saints-Anges-de-Lachine",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=95504&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montréal",
+"Municipalite": "Montréal",
+"Adresse": " boulevard LaSalle",
+"Construction": "",
+"Fonction": "",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/14182?id=8ab5d9733978b0f7013978b512052058",
+"Droits_image": "Jean-François Rodrigue 2006 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-57.139694,
+51.389361
+]
+
+},
+"properties": {
+"Nom": "Site archéologique de l'Île-au-Bois",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92706&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Côte-Nord",
+"Municipalite": "Blanc-Sablon",
+"Adresse": "",
+"Construction": "",
+"Fonction": "Industrie de la transformation du poisson et des mammifères marins",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-71.967444,
+48.422000
+]
+
+},
+"properties": {
+"Nom": "Site archéologique de la Métabetchouane",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93572&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Saguenay--Lac-Saint-Jean",
+"Municipalite": "Chambord",
+"Adresse": " route 169",
+"Construction": "1676",
+"Fonction": "Postes de traite",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.966667,
+45.318611
+]
+
+},
+"properties": {
+"Nom": "Site archéologique de la Pointe-du-Buisson",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92788&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montérégie",
+"Municipalite": "Beauharnois",
+"Adresse": "333 rue Émond",
+"Construction": "",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-57.143944,
+51.425528
+]
+
+},
+"properties": {
+"Nom": "Site archéologique de la Rive-Ouest-de-la-Blanc-Sablon",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92707&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Côte-Nord",
+"Municipalite": "Blanc-Sablon",
+"Adresse": "",
+"Construction": "",
+"Fonction": "Industrie de la transformation du poisson et des mammifères marins",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-64.699778,
+48.325667
+]
+
+},
+"properties": {
+"Nom": "Site archéologique de Pabos",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92580&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Gaspésie--Îles-de-la-Madeleine",
+"Municipalite": "Chandler",
+"Adresse": " rue de la Plage",
+"Construction": "",
+"Fonction": "Pêcheries fixes",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-69.448944,
+48.285658
+]
+
+},
+"properties": {
+"Nom": "Site archéologique des Basques-de-l'Anse-à-la-Cave",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=98954&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Côte-Nord",
+"Municipalite": "Les Bergeronnes",
+"Adresse": " Rang 1",
+"Construction": "",
+"Fonction": "Industrie de la transformation du poisson et des mammifères marins",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.371250,
+45.383306
+]
+
+},
+"properties": {
+"Nom": "Site archéologique des Casernes-de-Blairfindie",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92492&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montérégie",
+"Municipalite": "Saint-Jean-sur-Richelieu",
+"Adresse": "",
+"Construction": "1814",
+"Fonction": "Installations de défense militaire",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-72.869722,
+46.503111
+]
+
+},
+"properties": {
+"Nom": "Site archéologique des Forges-Grondin",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92520&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Mauricie",
+"Municipalite": "Saint-Boniface",
+"Adresse": " chemin du Lac-des-Îles",
+"Construction": "1878",
+"Fonction": "Sidérurgies et fonderies de fer, Forges, Extraction minière: minéraux métalliques",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.556073,
+45.500352
+]
+
+},
+"properties": {
+"Nom": "Site archéologique du Marché-Sainte-Anne-et-du-Parlement-du-Canada-Uni",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=158322&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montréal",
+"Municipalite": "Montréal",
+"Adresse": "",
+"Construction": "",
+"Fonction": "Halles et place du marché, Hôtel du Parlement et ministères, Squares, parcs urbains et grands jardins",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-59.588083,
+50.479250
+]
+
+},
+"properties": {
+"Nom": "Site archéologique du Poste-de-Nétagamiou",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92726&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Côte-Nord",
+"Municipalite": "Côte-Nord-du-Golfe-du-Saint-Laurent",
+"Adresse": "",
+"Construction": "",
+"Fonction": "Industrie de la transformation du poisson et des mammifères marins, Postes de traite",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10082?id=8ab5d97339c5eaa90139e12441820fd0",
+"Droits_image": "1974 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.785750,
+49.195806
+]
+
+},
+"properties": {
+"Nom": "Site archéologique du Poste-de-Traite-de-l'Ashuapmushuan",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93541&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Saguenay--Lac-Saint-Jean",
+"Municipalite": "Lac-Ashuapmushuan",
+"Adresse": "",
+"Construction": "",
+"Fonction": "Postes de traite",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.148001,
+45.986198
+]
+
+},
+"properties": {
+"Nom": "Site archéologique Mandeville",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92503&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montérégie",
+"Municipalite": "Sorel-Tracy",
+"Adresse": "13500 chemin Saint-Roch",
+"Construction": "",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-77.765139,
+48.093944
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de l'Ancienne-Mine-Lamaque",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=159651&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Abitibi-Témiscamingue",
+"Municipalite": "Val-d'Or",
+"Adresse": "90 avenue Perrault",
+"Construction": "après 1934",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.386944,
+45.042500
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de l'Église-d'Odelltown",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93137&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montérégie",
+"Municipalite": "Lacolle",
+"Adresse": " route 221",
+"Construction": "",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.927222,
+45.318889
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de l'Entrée-Inférieure-de-l'Ancien-Canal-de-Beauharnois",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93411&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montérégie",
+"Municipalite": "Beauharnois",
+"Adresse": " rue Bourcier",
+"Construction": "1842",
+"Fonction": "Canaux de navigation",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12506?id=8ab5d9733978b0f7013978ca33cb7cbd",
+"Droits_image": "Jean-François Rodrigue 2006 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-74.126611,
+45.257167
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de l'Entrée-Supérieure-de-l'Ancien-Canal-de-Beauharnois",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93275&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montérégie",
+"Municipalite": "Salaberry-de-Valleyfield",
+"Adresse": " rue Victoria",
+"Construction": "1842",
+"Fonction": "Canaux de navigation",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-71.202500,
+46.812778
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de l'Habitation-Samuel-De Champlain",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=97606&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Capitale-Nationale",
+"Municipalite": "Québec",
+"Adresse": "",
+"Construction": "1608",
+"Fonction": "Monuments et lieux commémoratifs",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-71.144472,
+46.890222
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de la Chute-Montmorency",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93580&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Capitale-Nationale",
+"Municipalite": "Boischatel¤Québec",
+"Adresse": "",
+"Construction": "1800",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-61.835833,
+47.236889
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de La Grave",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93506&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Gaspésie--Îles-de-la-Madeleine",
+"Municipalite": "Les Îles-de-la-Madeleine",
+"Adresse": "",
+"Construction": "",
+"Fonction": "Pêcheries fixes",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.015583,
+48.239306
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de la Maison-Dumulon",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92793&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Abitibi-Témiscamingue",
+"Municipalite": "Rouyn-Noranda",
+"Adresse": "191 avenue du Lac",
+"Construction": "1923",
+"Fonction": "Bureaux de poste",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10452?id=8ab5d97339c5eaa90139e122f14d02b0",
+"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.608250,
+45.480750
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de la Maison-Hurtubise",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93509&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montréal",
+"Municipalite": "Westmount",
+"Adresse": " chemin de la Côte-Saint-Antoine",
+"Construction": "",
+"Fonction": "Maisons rurales et urbaines",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12898?id=8ab5d9733978b0f7013978c98aa57573",
+"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.587150,
+45.498982
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de la Maison-John-Wilson-McConnell",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93288&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montréal",
+"Municipalite": "Montréal",
+"Adresse": "1475 avenue des Pins Ouest, 1518 avenue Cedar",
+"Construction": "",
+"Fonction": "Maisons rurales et urbaines",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/11964?id=8ab5d9733978b0f7013978caa6eb023b",
+"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-75.725972,
+45.424611
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de la Maison-Wright-Scott",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92978&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Outaouais",
+"Municipalite": "Gatineau",
+"Adresse": "28 boulevard Alexandre-Taché",
+"Construction": "vers 1875",
+"Fonction": "Villas et maisons bourgeoises (domaine)",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.051694,
+45.665306
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de La Présentation-de-la-Sainte-Vierge",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92765&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montérégie",
+"Municipalite": "La Présentation",
+"Adresse": " rue de l'Église",
+"Construction": "",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-71.303455,
+46.778740
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de la Visitation",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92811&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Capitale-Nationale",
+"Municipalite": "Québec",
+"Adresse": "801 route de l'Église, 2825 chemin Sainte-Foy",
+"Construction": "",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-71.694944,
+46.744000
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de pêche Déry",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93550&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Capitale-Nationale",
+"Municipalite": "Pont-Rouge",
+"Adresse": " rue Déry",
+"Construction": "",
+"Fonction": "",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13075?id=8ab5d9733978b0f7013978c2a4c92cb8",
+"Droits_image": "Jean-François Rodrigue 2006 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-67.222083,
+48.352194
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de pêche Matamajaw",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92719&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Bas-Saint-Laurent",
+"Municipalite": "Causapscal",
+"Adresse": " rue Saint-Jacques Sud",
+"Construction": "1873",
+"Fonction": "Clubs de chasse et pêche",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10059?id=8ab5d97339c5eaa90139e124508a108c",
+"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-79.299556,
+48.552194
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de Rapide-Danseur",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93503&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Abitibi-Témiscamingue",
+"Municipalite": "Rapide-Danseur",
+"Adresse": " rue du Village",
+"Construction": "",
+"Fonction": "",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12874?id=8ab5d9733978b0f7013978c35984334c",
+"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-57.138083,
+51.424667
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de Room's Point",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92721&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Côte-Nord",
+"Municipalite": "Blanc-Sablon",
+"Adresse": "",
+"Construction": "",
+"Fonction": "Industrie de la transformation du poisson et des mammifères marins",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10062?id=8ab5d97339c5eaa90139e1244c9e105a",
+"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-70.714528,
+46.887417
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de Saint-François-de-la-Rivière-du-Sud",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92808&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Chaudière-Appalaches",
+"Municipalite": "Saint-François-de-la-Rivière-du-Sud",
+"Adresse": " chemin Saint-François Ouest",
+"Construction": "",
+"Fonction": "",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10521?id=8ab5d9733953eaff013978a11a531502",
+"Droits_image": "Jean-François Rodrigue 2006 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-70.881972,
+46.310944
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de Saint-Joseph-de-Beauce",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93478&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Chaudière-Appalaches",
+"Municipalite": "Saint-Joseph-de-Beauce",
+"Adresse": "",
+"Construction": "1865",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-71.786944,
+46.670333
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de Sainte-Famille",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92689&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Capitale-Nationale",
+"Municipalite": "Cap-Santé",
+"Adresse": "30 place de l'Église, côte du Quai",
+"Construction": "",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.178167,
+46.081278
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial de Sainte-Geneviève",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105201&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Lanaudière",
+"Municipalite": "Berthierville¤Sainte-Geneviève-de-Berthier",
+"Adresse": "",
+"Construction": "",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-71.379944,
+46.220028
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial des Églises-de-Kinnear's Mills",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93543&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Chaudière-Appalaches",
+"Municipalite": "Kinnear's Mills",
+"Adresse": " rue des Fondateurs, rue des Églises",
+"Construction": "",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-61.823444,
+50.181667
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial des Galets",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=98891&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Côte-Nord",
+"Municipalite": "Natashquan",
+"Adresse": "",
+"Construction": "",
+"Fonction": "Industrie de la transformation du poisson et des mammifères marins",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-72.536833,
+46.343778
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial des Récollets-de-Trois-Rivières",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93285&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Mauricie",
+"Municipalite": "Trois-Rivières",
+"Adresse": "787, 789, 791, 793, 795, 797, 799, 801, 803, 805, 807, 809, 811 rue des Ursulines",
+"Construction": "",
+"Fonction": "",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/201671?id=8ab5d9733da5c767013da740201f00d7",
+"Droits_image": "Jean-François Rodrigue 2006 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-65.254250,
+48.021194
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial du Banc-de-Pêche-de-Paspébiac",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93319&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Gaspésie--Îles-de-la-Madeleine",
+"Municipalite": "Paspébiac",
+"Adresse": " 3e Rue",
+"Construction": "",
+"Fonction": "Pêcheries fixes",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12128?id=8ab5d9733978b0f7013978c084ce167e",
+"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-70.734222,
+46.934667
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial du Manoir-Dénéchaud",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92573&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Chaudière-Appalaches",
+"Municipalite": "Berthier-sur-Mer",
+"Adresse": "101 rue de la Marina",
+"Construction": "",
+"Fonction": "Manoirs seigneuriaux",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/9400?id=8ab5d9733978b0f7013978b81fc43e90",
+"Droits_image": "Jean-François Rodrigue 2006 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-71.210556,
+46.815278
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial du Monastère-des-Augustines-de-l'Hôtel-Dieu-de-Québec",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93477&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Capitale-Nationale",
+"Municipalite": "Québec",
+"Adresse": "75 rue des Remparts, 32 rue Charlevoix",
+"Construction": "",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-72.689639,
+46.287972
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial du Moulin-Seigneurial-de-Tonnancour",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=95649&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Mauricie",
+"Municipalite": "Trois-Rivières",
+"Adresse": "",
+"Construction": "",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-71.075556,
+48.428889
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial du Poste-de-Traite-de-Chicoutimi",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92593&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Saguenay--Lac-Saint-Jean",
+"Municipalite": "Saguenay",
+"Adresse": " boulevard du Saguenay Ouest",
+"Construction": "",
+"Fonction": "Postes de traite",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/9506?id=8ab5d97339c5eaa90139e125dc782226",
+"Droits_image": "1985 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-71.076583,
+48.424250
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial du Sacré-Coeur",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92960&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Saguenay--Lac-Saint-Jean",
+"Municipalite": "Saguenay",
+"Adresse": " rue Bossé",
+"Construction": "",
+"Fonction": "",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/11180?id=8ab5d9733978b0f7013978c66d8d588a",
+"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-72.258250,
+46.482111
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial du Vieux-Presbytère-de-Batiscan",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92708&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Mauricie",
+"Municipalite": "Batiscan",
+"Adresse": "340 rue Principale",
+"Construction": "1816",
+"Fonction": "Presbytères et bâtiments associés",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.556361,
+45.503917
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial du Vieux-Séminaire-de-Saint-Sulpice",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92755&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montréal",
+"Municipalite": "Montréal",
+"Adresse": "116, 130 rue Notre-Dame Ouest",
+"Construction": "1684",
+"Fonction": "Collèges, séminaires et universités",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-77.770222,
+48.095500
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial du Village-Minier-de-Bourlamaque",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92836&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Abitibi-Témiscamingue",
+"Municipalite": "Val-d'Or",
+"Adresse": " avenue Perrault",
+"Construction": "1935",
+"Fonction": "Maisons rurales et urbaines, Extraction minière: minéraux métalliques",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-73.666250,
+45.429778
+]
+
+},
+"properties": {
+"Nom": "Site patrimonial Le Ber-Le Moyne",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93274&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Montréal",
+"Municipalite": "Montréal",
+"Adresse": "100, 110, 120 chemin de LaSalle",
+"Construction": "",
+"Fonction": "Maisons rurales et urbaines, Chalets et résidences secondaires, Postes de traite",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/11924?id=8ab5d9733978b0f7013978cacbc00411",
+"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-72.903889,
+51.068889
+]
+
+},
+"properties": {
+"Nom": "Sites archéologiques de la Colline-Blanche",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92716&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Nord-du-Québec",
+"Municipalite": "Baie-James",
+"Adresse": "",
+"Construction": "",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-69.550528,
+48.230167
+]
+
+},
+"properties": {
+"Nom": "Sites archéologiques de la Pointe-à-John",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92521&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Côte-Nord",
+"Municipalite": "Les Bergeronnes",
+"Adresse": " rue de la Mer",
+"Construction": "",
+"Fonction": "",
+"URL_image": "",
+"Droits_image": ""
+}
+},{"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+-72.166361,
+48.437917
+]
+
+},
+"properties": {
+"Nom": "Village historique de Val-Jalbert",
+"URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92690&type=bien",
+"Statut": "Classement",
+"Categorie": "Site patrimonial",
+"Region": "Saguenay--Lac-Saint-Jean",
+"Municipalite": "Chambord",
+"Adresse": " rue Saint-Georges",
+"Construction": "1901",
+"Fonction": "Usines de pâtes et papiers",
+"URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/9920?id=8ab5d9733978b0f7013978b72807367a",
+"Droits_image": "Jean-François Rodrigue 2007 © Ministère de la Culture et des Communications"
+}
+}
+]
 }
