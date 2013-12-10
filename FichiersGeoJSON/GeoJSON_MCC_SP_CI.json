@@ -1,4 +1,4 @@
-   {
+ï»¿   {
 	"type": "FeatureCollection",
 	"features": [
  
@@ -13,7 +13,7 @@
 
 },
 "properties": {
-"Nom": "Ancien pouvoir électrique de Bagotville",
+"Nom": "Ancien pouvoir Ã©lectrique de Bagotville",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93603&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -21,9 +21,9 @@
 "Municipalite": "Saguenay",
 "Adresse": "7400 chemin des Chutes",
 "Construction": "vers 1910",
-"Fonction": "Centrales hydroélectriques",
+"Fonction": "Centrales hydroÃ©lectriques",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13218?id=8ab5d9733978b0f7013978b68e112fa4",
-"Droits_image": "Jean-François Rodrigue 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -35,17 +35,17 @@
 
 },
 "properties": {
-"Nom": "Ancien village du Sault-au-Récollet",
+"Nom": "Ancien village du Sault-au-RÃ©collet",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93558&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montréal",
-"Municipalite": "Montréal",
+"Region": "MontrÃ©al",
+"Municipalite": "MontrÃ©al",
 "Adresse": "",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13114?id=8ab5d9733978b0f7013978b6faf534c6",
-"Droits_image": "Élodie Poletto 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Ã‰lodie Poletto 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -57,17 +57,17 @@
 
 },
 "properties": {
-"Nom": "Arrondissement institutionnel de la paroisse de Sainte-Cécile",
+"Nom": "Arrondissement institutionnel de la paroisse de Sainte-CÃ©cile",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93520&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montérégie",
+"Region": "MontÃ©rÃ©gie",
 "Municipalite": "Salaberry-de-Valleyfield",
 "Adresse": "",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12930?id=8ab5d9733978b0f7013978c336b33228",
-"Droits_image": "Jean-François Rodrigue 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -79,17 +79,17 @@
 
 },
 "properties": {
-"Nom": "Boisé Stein",
+"Nom": "BoisÃ© Stein",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=166038&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Centre-du-Québec",
+"Region": "Centre-du-QuÃ©bec",
 "Municipalite": "Victoriaville",
 "Adresse": "1037 boulevard des Bois-Francs Sud",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/119422?id=8ab5d9733978b0f701397aae2f3a643f",
-"Droits_image": "Andréane Beloin 2010 © Ministère de la Culture et des Communications"
+"Droits_image": "AndrÃ©ane Beloin 2010 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -101,17 +101,17 @@
 
 },
 "properties": {
-"Nom": "Carré Celanese",
+"Nom": "CarrÃ© Celanese",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105655&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Centre-du-Québec",
+"Region": "Centre-du-QuÃ©bec",
 "Municipalite": "Drummondville",
-"Adresse": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15 carré Celanese",
+"Adresse": "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15 carrÃ© Celanese",
 "Construction": "1926",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/24296?id=8ab5d9733978b0f701397904cb076225",
-"Droits_image": "Jean-François Rodrigue 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -123,17 +123,17 @@
 
 },
 "properties": {
-"Nom": "Carré Curé-Hébert",
+"Nom": "CarrÃ© CurÃ©-HÃ©bert",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=155201&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Saguenay--Lac-Saint-Jean",
-"Municipalite": "Hébertville",
+"Municipalite": "HÃ©bertville",
 "Adresse": " rue Turgeon",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/92882?id=8ab5d9733978b0f701397a5c851e1f44",
-"Droits_image": "Jean-François Rodrigue 2009 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2009 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -145,11 +145,11 @@
 
 },
 "properties": {
-"Nom": "Centre d'héritage britannique de la Gaspésie",
+"Nom": "Centre d'hÃ©ritage britannique de la GaspÃ©sie",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93461&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Gaspésie--Îles-de-la-Madeleine",
+"Region": "GaspÃ©sie--ÃŽles-de-la-Madeleine",
 "Municipalite": "New Richmond",
 "Adresse": "351 boulevard Perron Ouest",
 "Construction": "",
@@ -167,7 +167,7 @@
 
 },
 "properties": {
-"Nom": "Cimetière de Notre-Dame-de-Bonsecours",
+"Nom": "CimetiÃ¨re de Notre-Dame-de-Bonsecours",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=111289&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -175,9 +175,9 @@
 "Municipalite": "Montebello",
 "Adresse": "545 rue Notre-Dame",
 "Construction": "",
-"Fonction": "Cimetières",
+"Fonction": "CimetiÃ¨res",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/33535?id=8ab5d9733978b0f70139792e64f52199",
-"Droits_image": "Jean-François Rodrigue 2009 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2009 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -189,17 +189,17 @@
 
 },
 "properties": {
-"Nom": "Cimetière de Saint-Pierre-de-la-Rivière-du-Sud",
+"Nom": "CimetiÃ¨re de Saint-Pierre-de-la-RiviÃ¨re-du-Sud",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=96685&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Chaudière-Appalaches",
-"Municipalite": "Saint-Pierre-de-la-Rivière-du-Sud",
+"Region": "ChaudiÃ¨re-Appalaches",
+"Municipalite": "Saint-Pierre-de-la-RiviÃ¨re-du-Sud",
 "Adresse": "",
 "Construction": "",
-"Fonction": "Cimetières",
+"Fonction": "CimetiÃ¨res",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/14420?id=8ab5d9733978b0f7013978bab86b5794",
-"Droits_image": "Jean-François Rodrigue 2009 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2009 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -211,7 +211,7 @@
 
 },
 "properties": {
-"Nom": "Cimetière des Pionniers de Chelsea",
+"Nom": "CimetiÃ¨re des Pionniers de Chelsea",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=173183&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -219,9 +219,9 @@
 "Municipalite": "Chelsea",
 "Adresse": "547 route 105",
 "Construction": "vers 1837",
-"Fonction": "Cimetières",
+"Fonction": "CimetiÃ¨res",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/138864?id=8ab5d9733978b0f701397b3127337ea4",
-"Droits_image": "Andréane Beloin 2011 © Ministère de la Culture et des Communications"
+"Droits_image": "AndrÃ©ane Beloin 2011 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -233,17 +233,17 @@
 
 },
 "properties": {
-"Nom": "Cimetière Douglass",
+"Nom": "CimetiÃ¨re Douglass",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93578&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montérégie",
+"Region": "MontÃ©rÃ©gie",
 "Municipalite": "Saint-Cyprien-de-Napierville",
-"Adresse": " montée Douglass",
+"Adresse": " montÃ©e Douglass",
 "Construction": "",
-"Fonction": "Cimetières",
+"Fonction": "CimetiÃ¨res",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13167?id=8ab5d9733978b0f7013978b6cbd5325a",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -255,7 +255,7 @@
 
 },
 "properties": {
-"Nom": "Cimetière Gisla",
+"Nom": "CimetiÃ¨re Gisla",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92495&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -263,9 +263,9 @@
 "Municipalite": "Milan",
 "Adresse": " chemin Gisla",
 "Construction": "",
-"Fonction": "Cimetières",
+"Fonction": "CimetiÃ¨res",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/9093?id=8ab5d9733978b0f7013978b16cd9029b",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -277,7 +277,7 @@
 
 },
 "properties": {
-"Nom": "Cimetière protestant",
+"Nom": "CimetiÃ¨re protestant",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93535&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -285,9 +285,9 @@
 "Municipalite": "Papineauville",
 "Adresse": " route 148",
 "Construction": "",
-"Fonction": "Cimetières",
+"Fonction": "CimetiÃ¨res",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13014?id=8ab5d9733978b0f7013978c978fd749b",
-"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2004 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -299,7 +299,7 @@
 
 },
 "properties": {
-"Nom": "Cimetière protestant d'Old Chelsea",
+"Nom": "CimetiÃ¨re protestant d'Old Chelsea",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=172098&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -307,9 +307,9 @@
 "Municipalite": "Chelsea",
 "Adresse": "245 chemin d'Old Chelsea",
 "Construction": "vers 1835",
-"Fonction": "Cimetières",
+"Fonction": "CimetiÃ¨res",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/135554?id=8ab5d9733978b0f701397b067d1c0d46",
-"Droits_image": "Andréane Beloin 2011 © Ministère de la Culture et des Communications"
+"Droits_image": "AndrÃ©ane Beloin 2011 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -321,7 +321,7 @@
 
 },
 "properties": {
-"Nom": "Cimetière Saint-François-Xavier",
+"Nom": "CimetiÃ¨re Saint-FranÃ§ois-Xavier",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92812&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -329,9 +329,9 @@
 "Municipalite": "Saguenay",
 "Adresse": " chemin Saint-Thomas",
 "Construction": "1874",
-"Fonction": "Cimetières",
+"Fonction": "CimetiÃ¨res",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10533?id=8ab5d9733953eaff013978a050d9146c",
-"Droits_image": "Jean-François Rodrigue 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -343,17 +343,17 @@
 
 },
 "properties": {
-"Nom": "Cimetière St. James",
+"Nom": "CimetiÃ¨re St. James",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=181308&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Outaouais",
 "Municipalite": "Gatineau",
-"Adresse": " boulevard Alexandre-Taché",
+"Adresse": " boulevard Alexandre-TachÃ©",
 "Construction": "vers 1820",
-"Fonction": "Cimetières",
+"Fonction": "CimetiÃ¨res",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/159785?id=8ab5d9733978b0f701397b87fc0130c7",
-"Droits_image": "Andréane Beloin 2011 © Ministère de la Culture et des Communications"
+"Droits_image": "AndrÃ©ane Beloin 2011 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -365,17 +365,17 @@
 
 },
 "properties": {
-"Nom": "Côte-Saint-Paul",
+"Nom": "CÃ´te-Saint-Paul",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93079&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montréal",
-"Municipalite": "Montréal",
+"Region": "MontrÃ©al",
+"Municipalite": "MontrÃ©al",
 "Adresse": "",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/11585?id=8ab5d9733978b0f7013978c124441f5a",
-"Droits_image": "Nicolas Miquelon 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Nicolas Miquelon 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -391,13 +391,13 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=110646&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Abitibi-Témiscamingue",
+"Region": "Abitibi-TÃ©miscamingue",
 "Municipalite": "Saint-Bruno-de-Guigues",
 "Adresse": "24 rue Principale Nord",
 "Construction": "1906",
 "Fonction": "Villas et maisons bourgeoises (domaine)",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/32302?id=8ab5d9733978b0f70139790b6b3e2940",
-"Droits_image": "Jean-François Rodrigue 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -458,12 +458,12 @@
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Outaouais",
-"Municipalite": "Saint-André-Avellin",
+"Municipalite": "Saint-AndrÃ©-Avellin",
 "Adresse": "60 route 321 Sud",
 "Construction": "vers 1852",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/119097?id=8ab5d9733978b0f701397ab2e70d1dfa",
-"Droits_image": "Andréane Beloin 2010 © Ministère de la Culture et des Communications"
+"Droits_image": "AndrÃ©ane Beloin 2010 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -475,11 +475,11 @@
 
 },
 "properties": {
-"Nom": "Hôtel-du-Roi",
+"Nom": "HÃ´tel-du-Roi",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92837&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montérégie",
+"Region": "MontÃ©rÃ©gie",
 "Municipalite": "Longueuil",
 "Adresse": "495, 497 rue Saint-Charles Ouest",
 "Construction": "1937",
@@ -497,17 +497,17 @@
 
 },
 "properties": {
-"Nom": "Îlette-au-Pé",
+"Nom": "ÃŽlette-au-PÃ©",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92835&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montérégie",
+"Region": "MontÃ©rÃ©gie",
 "Municipalite": "Sainte-Anne-de-Sorel",
-"Adresse": "21 chemin de l'Île-aux-Fantômes",
+"Adresse": "21 chemin de l'ÃŽle-aux-FantÃ´mes",
 "Construction": "1957",
-"Fonction": "Chalets et résidences secondaires",
+"Fonction": "Chalets et rÃ©sidences secondaires",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10638?id=8ab5d9733953eaff0139789ded020f6c",
-"Droits_image": "Jean-François Rodrigue 2009 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2009 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -519,7 +519,7 @@
 
 },
 "properties": {
-"Nom": "Îlot religieux de L'Isle-Verte",
+"Nom": "ÃŽlot religieux de L'Isle-Verte",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=114963&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -541,7 +541,7 @@
 
 },
 "properties": {
-"Nom": "Lieu de culte Notre-Dame-des-Anges à Vendée",
+"Nom": "Lieu de culte Notre-Dame-des-Anges Ã  VendÃ©e",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=114533&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -549,7 +549,7 @@
 "Municipalite": "Amherst",
 "Adresse": "",
 "Construction": "",
-"Fonction": "Églises, temples, synagogues et mosquées",
+"Fonction": "Ã‰glises, temples, synagogues et mosquÃ©es",
 "URL_image": "",
 "Droits_image": ""
 }
@@ -567,13 +567,13 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=166037&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Centre-du-Québec",
+"Region": "Centre-du-QuÃ©bec",
 "Municipalite": "Victoriaville",
 "Adresse": "18 rue Laurier Ouest",
 "Construction": "1855",
 "Fonction": "Maisons rurales et urbaines",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/119417?id=8ab5d9733978b0f701397aae32206465",
-"Droits_image": "Andréane Beloin 2010 © Ministère de la Culture et des Communications"
+"Droits_image": "AndrÃ©ane Beloin 2010 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -590,12 +590,12 @@
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Capitale-Nationale",
-"Municipalite": "Québec",
-"Adresse": "2026 boulevard René-Lévesque Ouest",
+"Municipalite": "QuÃ©bec",
+"Adresse": "2026 boulevard RenÃ©-LÃ©vesque Ouest",
 "Construction": "1931",
 "Fonction": "Prisons",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12524?id=8ab5d9733978b0f7013978ca219d7bd3",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -612,12 +612,12 @@
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Laurentides",
-"Municipalite": "Rosemère",
-"Adresse": "106 chemin de la Grande-Côte",
+"Municipalite": "RosemÃ¨re",
+"Adresse": "106 chemin de la Grande-CÃ´te",
 "Construction": "1796",
 "Fonction": "Maisons rurales et urbaines",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13011?id=8ab5d9733978b0f7013978c2c5e32e2a",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -634,12 +634,12 @@
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Laurentides",
-"Municipalite": "Rosemère",
-"Adresse": "369 chemin de la Grande-Côte",
+"Municipalite": "RosemÃ¨re",
+"Adresse": "369 chemin de la Grande-CÃ´te",
 "Construction": "avant 1832",
 "Fonction": "Maisons rurales et urbaines",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13008?id=8ab5d9733978b0f7013978c2cb212e50",
-"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2004 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -651,17 +651,17 @@
 
 },
 "properties": {
-"Nom": "Maison Marc-Aurèle-Plamondon",
+"Nom": "Maison Marc-AurÃ¨le-Plamondon",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=166036&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Centre-du-Québec",
+"Region": "Centre-du-QuÃ©bec",
 "Municipalite": "Victoriaville",
 "Adresse": "14 rue Laurier Ouest",
 "Construction": "1890",
 "Fonction": "Maisons rurales et urbaines",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/119412?id=8ab5d9733978b0f701397aae365764a3",
-"Droits_image": "Andréane Beloin 2010 © Ministère de la Culture et des Communications"
+"Droits_image": "AndrÃ©ane Beloin 2010 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -677,13 +677,13 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92840&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montérégie",
+"Region": "MontÃ©rÃ©gie",
 "Municipalite": "Longueuil",
 "Adresse": "1540 boulevard Marie-Victorin",
 "Construction": "vers 1690",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10658?id=8ab5d9733953eaff0139789dd9580e80",
-"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2004 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -699,13 +699,13 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93568&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montérégie",
+"Region": "MontÃ©rÃ©gie",
 "Municipalite": "Saint-Cyprien-de-Napierville",
-"Adresse": "750 montée Douglass",
+"Adresse": "750 montÃ©e Douglass",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13139?id=8ab5d9733978b0f7013978b6e5d233b0",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -722,12 +722,12 @@
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Laurentides",
-"Municipalite": "Rosemère",
+"Municipalite": "RosemÃ¨re",
 "Adresse": "",
 "Construction": "vers 1837",
 "Fonction": "Maisons rurales et urbaines",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13005?id=8ab5d9733978b0f7013978c2cf8f2e76",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -743,13 +743,13 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92684&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Centre-du-Québec",
+"Region": "Centre-du-QuÃ©bec",
 "Municipalite": "Victoriaville",
 "Adresse": "16 rue Laurier Ouest",
 "Construction": "1876",
 "Fonction": "Maisons rurales et urbaines",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/9892?id=8ab5d9733ff0dc5d013ff2e78d4b0177",
-"Droits_image": "Jean-François Rodrigue 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -766,12 +766,12 @@
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Laurentides",
-"Municipalite": "Rosemère",
-"Adresse": "90 chemin de la Grande-Côte",
+"Municipalite": "RosemÃ¨re",
+"Adresse": "90 chemin de la Grande-CÃ´te",
 "Construction": "1883",
 "Fonction": "Villas et maisons bourgeoises (domaine)",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/8672?id=8ab5d9733978b0f7013978b31c39106d",
-"Droits_image": "Karine Garcia 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Karine Garcia 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -793,7 +793,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/14563?id=8ab5d9733978b0f7013978be9d947f12",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -809,7 +809,7 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=110665&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Chaudière-Appalaches",
+"Region": "ChaudiÃ¨re-Appalaches",
 "Municipalite": "Cap-Saint-Ignace",
 "Adresse": " rue Jacob",
 "Construction": "",
@@ -837,7 +837,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13090?id=8ab5d9733978b0f7013978c295032c0a",
-"Droits_image": "Jean-François Rodrigue 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -853,13 +853,13 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93555&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montérégie",
+"Region": "MontÃ©rÃ©gie",
 "Municipalite": "Lac-Brome",
 "Adresse": " chemin Lakeside",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13101?id=8ab5d9733978b0f7013978c28b9b2b82",
-"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2004 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -871,11 +871,11 @@
 
 },
 "properties": {
-"Nom": "Noyau institutionnel de Saint-Pierre-de-Véronne",
+"Nom": "Noyau institutionnel de Saint-Pierre-de-VÃ©ronne",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93574&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montérégie",
+"Region": "MontÃ©rÃ©gie",
 "Municipalite": "Pike River",
 "Adresse": "",
 "Construction": "",
@@ -897,7 +897,7 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=120155&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montérégie",
+"Region": "MontÃ©rÃ©gie",
 "Municipalite": "Saint-Antoine-sur-Richelieu",
 "Adresse": " rue du Rivage",
 "Construction": "",
@@ -923,9 +923,9 @@
 "Municipalite": "Milan",
 "Adresse": " chemin Dell",
 "Construction": "",
-"Fonction": "Monuments et lieux commémoratifs",
+"Fonction": "Monuments et lieux commÃ©moratifs",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12665?id=8ab5d9733978b0f7013978c023a0112c",
-"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2004 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -937,17 +937,17 @@
 
 },
 "properties": {
-"Nom": "Place de l'église de Sainte-Hélène",
+"Nom": "Place de l'Ã©glise de Sainte-HÃ©lÃ¨ne",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105334&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Bas-Saint-Laurent",
-"Municipalite": "Sainte-Hélène",
+"Municipalite": "Sainte-HÃ©lÃ¨ne",
 "Adresse": " rue du Couvent",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/23732?id=8ab5d9733978b0f7013978e4cbb013ec",
-"Droits_image": "Jean-François Rodrigue 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -959,7 +959,7 @@
 
 },
 "properties": {
-"Nom": "Place de l'Église-Saint-Edmond-de-Stoneham",
+"Nom": "Place de l'Ã‰glise-Saint-Edmond-de-Stoneham",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=113711&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -969,7 +969,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/39047?id=8ab5d9733978b0f701397942fc8707b0",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -987,11 +987,11 @@
 "Categorie": "Site patrimonial",
 "Region": "Saguenay--Lac-Saint-Jean",
 "Municipalite": "Saint-Charles-de-Bourget",
-"Adresse": " rue Principale¤ route du Village",
+"Adresse": " rue PrincipaleÂ¤ route du Village",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13143?id=8ab5d9733978b0f7013978b6e190337c",
-"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2004 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1011,9 +1011,9 @@
 "Municipalite": "Papineauville",
 "Adresse": " rue Papineau",
 "Construction": "",
-"Fonction": "Hôtels de ville et salles des habitants",
+"Fonction": "HÃ´tels de ville et salles des habitants",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/200438?id=8ab5d9733cd2d959013cd5468571022e",
-"Droits_image": "Andréane Beloin 2011 © Ministère de la Culture et des Communications"
+"Droits_image": "AndrÃ©ane Beloin 2011 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1035,7 +1035,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/45198?id=8ab5d9733978b0f70139794763a53b9c",
-"Droits_image": "Jean-François Rodrigue 2009 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2009 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1057,7 +1057,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10673?id=8ab5d9733953eaff0139789dc7a40db8",
-"Droits_image": "Jean-François Rodrigue 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1079,7 +1079,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10666?id=8ab5d9733953eaff0139789dcec20e04",
-"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2004 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1091,12 +1091,12 @@
 
 },
 "properties": {
-"Nom": "Secteur de l'église de Saint-Frédéric",
+"Nom": "Secteur de l'Ã©glise de Saint-FrÃ©dÃ©ric",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=115337&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Chaudière-Appalaches",
-"Municipalite": "Saint-Frédéric",
+"Region": "ChaudiÃ¨re-Appalaches",
+"Municipalite": "Saint-FrÃ©dÃ©ric",
 "Adresse": " rue Principale",
 "Construction": "",
 "Fonction": "",
@@ -1113,7 +1113,7 @@
 
 },
 "properties": {
-"Nom": "Secteur de l'église Sainte-Anne",
+"Nom": "Secteur de l'Ã©glise Sainte-Anne",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93513&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1123,7 +1123,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12907?id=8ab5d9733978b0f7013978c9810574f5",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1135,7 +1135,7 @@
 
 },
 "properties": {
-"Nom": "Secteur du phare de l'Île-Verte",
+"Nom": "Secteur du phare de l'ÃŽle-Verte",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=110669&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1145,7 +1145,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/32352?id=8ab5d9733978b0f70139790b2e6826c4",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1157,17 +1157,17 @@
 
 },
 "properties": {
-"Nom": "Site archéologique Droulers-Tsiionhiakwatha",
+"Nom": "Site archÃ©ologique Droulers-Tsiionhiakwatha",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=99048&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montérégie",
+"Region": "MontÃ©rÃ©gie",
 "Municipalite": "Saint-Anicet",
 "Adresse": "1800 chemin Leahy",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/15060?id=8ab5d9733978b0f7013978be4e607b4c",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1179,7 +1179,7 @@
 
 },
 "properties": {
-"Nom": "Site de l'église de Saint-Vital",
+"Nom": "Site de l'Ã©glise de Saint-Vital",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93262&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1201,7 +1201,7 @@
 
 },
 "properties": {
-"Nom": "Site de l'église et du cimetière de Sainte-Luce",
+"Nom": "Site de l'Ã©glise et du cimetiÃ¨re de Sainte-Luce",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93455&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1223,11 +1223,11 @@
 
 },
 "properties": {
-"Nom": "Site de la chapelle Saint-Paul, du cimetière et du manoir Taylor",
+"Nom": "Site de la chapelle Saint-Paul, du cimetiÃ¨re et du manoir Taylor",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=115151&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Chaudière-Appalaches",
+"Region": "ChaudiÃ¨re-Appalaches",
 "Municipalite": "Saint-Simon-les-Mines",
 "Adresse": "",
 "Construction": "",
@@ -1249,13 +1249,13 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93573&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Abitibi-Témiscamingue",
+"Region": "Abitibi-TÃ©miscamingue",
 "Municipalite": "Amos",
 "Adresse": "122 avenue Authier",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13155?id=8ab5d9733978b0f7013978b6d7f132f2",
-"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2004 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1277,7 +1277,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/32288?id=8ab5d9733978b0f70139790b7aa52a0a",
-"Droits_image": "Jean-François Rodrigue 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1299,7 +1299,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10727?id=8ab5d9733953eaff0139789d94900b36",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1321,7 +1321,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13086?id=8ab5d9733978b0f7013978c298002c30",
-"Droits_image": "Jean-François Rodrigue 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1337,13 +1337,13 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=97608&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Gaspésie--Îles-de-la-Madeleine",
+"Region": "GaspÃ©sie--ÃŽles-de-la-Madeleine",
 "Municipalite": "Carleton-sur-Mer",
 "Adresse": " rue de la Montagne",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/14505?id=8ab5d9733978b0f7013978bed09a01ae",
-"Droits_image": "Dominique Malack 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Dominique Malack 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1359,13 +1359,13 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=113213&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Chaudière-Appalaches",
+"Region": "ChaudiÃ¨re-Appalaches",
 "Municipalite": "Beaumont",
 "Adresse": "",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/38157?id=8ab5d9733978b0f7013979449d0f1bae",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1377,7 +1377,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine à l'intérieur du centre-ville de Rimouski",
+"Nom": "Site du patrimoine Ã  l'intÃ©rieur du centre-ville de Rimouski",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=106431&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1387,7 +1387,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/25603?id=8ab5d9733978b0f701397907888c7ef0",
-"Droits_image": "Jean-François Rodrigue 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1405,11 +1405,11 @@
 "Categorie": "Site patrimonial",
 "Region": "Laurentides",
 "Municipalite": "Mont-Tremblant",
-"Adresse": " rue Beattie¤ rue des Pins¤ rue Labelle",
+"Adresse": " rue BeattieÂ¤ rue des PinsÂ¤ rue Labelle",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13113?id=8ab5d9733978b0f7013978c281812b06",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1431,7 +1431,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13039?id=8ab5d9733978b0f7013978c95d6a734b",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1453,7 +1453,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/14562?id=8ab5d9733978b0f7013978be9efd7f20",
-"Droits_image": "Jean-François Rodrigue 2009 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2009 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1465,7 +1465,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Ancien-Collège-Saint-Édouard-de-Port-Alfred",
+"Nom": "Site du patrimoine de l'Ancien-CollÃ¨ge-Saint-Ã‰douard-de-Port-Alfred",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93592&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1475,7 +1475,7 @@
 "Construction": "1926",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13201?id=8ab5d9733978b0f7013978b6a3ed309c",
-"Droits_image": "Jean-François Rodrigue 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1487,7 +1487,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Ancienne-Académie-Saint-Alphonse-de-Bagotville",
+"Nom": "Site du patrimoine de l'Ancienne-AcadÃ©mie-Saint-Alphonse-de-Bagotville",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93588&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1497,7 +1497,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13193?id=8ab5d9733978b0f7013978b6b0453110",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1509,7 +1509,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'église de Saint-Venant-de-Paquette",
+"Nom": "Site du patrimoine de l'Ã©glise de Saint-Venant-de-Paquette",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93644&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1519,7 +1519,7 @@
 "Construction": "1875",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13322?id=8ab5d9733978b0f7013978bd78bf766c",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1531,13 +1531,13 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'église Sainte-Jeanne-de-Chantal",
+"Nom": "Site du patrimoine de l'Ã©glise Sainte-Jeanne-de-Chantal",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=125106&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montérégie",
-"Municipalite": "Notre-Dame-de-l'Île-Perrot",
-"Adresse": " rue de l'Église",
+"Region": "MontÃ©rÃ©gie",
+"Municipalite": "Notre-Dame-de-l'ÃŽle-Perrot",
+"Adresse": " rue de l'Ã‰glise",
 "Construction": "",
 "Fonction": "",
 "URL_image": "",
@@ -1553,7 +1553,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-Anglicane-Saint John-et-du-Cimetière-Mount Pleasant Union",
+"Nom": "Site du patrimoine de l'Ã‰glise-Anglicane-Saint John-et-du-CimetiÃ¨re-Mount Pleasant Union",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93469&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1563,7 +1563,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12768?id=8ab5d9733978b0f7013978c9d2e9789d",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1575,7 +1575,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-de-Notre-Dame-de-Grâce",
+"Nom": "Site du patrimoine de l'Ã‰glise-de-Notre-Dame-de-GrÃ¢ce",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105536&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1597,13 +1597,13 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-de-Saint-Antoine",
+"Nom": "Site du patrimoine de l'Ã‰glise-de-Saint-Antoine",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105539&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Saguenay--Lac-Saint-Jean",
 "Municipalite": "Saguenay",
-"Adresse": " chemin de la Réserve",
+"Adresse": " chemin de la RÃ©serve",
 "Construction": "",
 "Fonction": "",
 "URL_image": "",
@@ -1619,13 +1619,13 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-de-Saint-Bonaventure",
+"Nom": "Site du patrimoine de l'Ã‰glise-de-Saint-Bonaventure",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93374&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Gaspésie--Îles-de-la-Madeleine",
+"Region": "GaspÃ©sie--ÃŽles-de-la-Madeleine",
 "Municipalite": "Bonaventure",
-"Adresse": " avenue de Grand-Pré",
+"Adresse": " avenue de Grand-PrÃ©",
 "Construction": "",
 "Fonction": "",
 "URL_image": "",
@@ -1641,7 +1641,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-de-Saint-Dominique",
+"Nom": "Site du patrimoine de l'Ã‰glise-de-Saint-Dominique",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105415&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1663,12 +1663,12 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-de-Saint-Esprit-de-Rosemont",
+"Nom": "Site du patrimoine de l'Ã‰glise-de-Saint-Esprit-de-Rosemont",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93559&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montréal",
-"Municipalite": "Montréal",
+"Region": "MontrÃ©al",
+"Municipalite": "MontrÃ©al",
 "Adresse": " rue Masson",
 "Construction": "",
 "Fonction": "",
@@ -1685,7 +1685,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-de-Saint-Georges",
+"Nom": "Site du patrimoine de l'Ã‰glise-de-Saint-Georges",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105501&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1707,7 +1707,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-de-Saint-Isidore",
+"Nom": "Site du patrimoine de l'Ã‰glise-de-Saint-Isidore",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105516&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1729,7 +1729,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-de-Saint-Jacques",
+"Nom": "Site du patrimoine de l'Ã‰glise-de-Saint-Jacques",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105508&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1751,17 +1751,17 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-de-Saint-Jean-Baptiste",
+"Nom": "Site du patrimoine de l'Ã‰glise-de-Saint-Jean-Baptiste",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93080&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montréal",
-"Municipalite": "Montréal",
+"Region": "MontrÃ©al",
+"Municipalite": "MontrÃ©al",
 "Adresse": " rue Rachel Est",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/11589?id=8ab5d9733978b0f7013978c1222c1f40",
-"Droits_image": "Sophie Thibault 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Sophie Thibault 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1773,7 +1773,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-de-Saint-Joachim",
+"Nom": "Site du patrimoine de l'Ã‰glise-de-Saint-Joachim",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105513&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1795,7 +1795,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-de-Saint-Laurent",
+"Nom": "Site du patrimoine de l'Ã‰glise-de-Saint-Laurent",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105498&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1817,13 +1817,13 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-de-Saint-Luc",
+"Nom": "Site du patrimoine de l'Ã‰glise-de-Saint-Luc",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105519&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Saguenay--Lac-Saint-Jean",
 "Municipalite": "Saguenay",
-"Adresse": " rue du Régent",
+"Adresse": " rue du RÃ©gent",
 "Construction": "",
 "Fonction": "",
 "URL_image": "",
@@ -1839,17 +1839,17 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-de-Saint-Mathias",
+"Nom": "Site du patrimoine de l'Ã‰glise-de-Saint-Mathias",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105510&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Saguenay--Lac-Saint-Jean",
 "Municipalite": "Saguenay",
-"Adresse": " rue Lévesque",
+"Adresse": " rue LÃ©vesque",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/23962?id=8ab5d9733978b0f7013978e898153cb0",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1861,7 +1861,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-de-Saint-Matthieu",
+"Nom": "Site du patrimoine de l'Ã‰glise-de-Saint-Matthieu",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105408&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1871,7 +1871,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/23840?id=8ab5d9733978b0f7013978e468970eac",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1883,7 +1883,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-de-Saint-Nom-de-Jésus",
+"Nom": "Site du patrimoine de l'Ã‰glise-de-Saint-Nom-de-JÃ©sus",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105525&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1905,7 +1905,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-de-Saint-Raphaël",
+"Nom": "Site du patrimoine de l'Ã‰glise-de-Saint-RaphaÃ«l",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105504&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1927,7 +1927,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-de-Sainte-Claire",
+"Nom": "Site du patrimoine de l'Ã‰glise-de-Sainte-Claire",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105527&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1949,7 +1949,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-du-Christ-Roi",
+"Nom": "Site du patrimoine de l'Ã‰glise-du-Christ-Roi",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105533&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -1971,17 +1971,17 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-et-du-Presbytère-de-Saint-Jean-Chrysostome",
+"Nom": "Site du patrimoine de l'Ã‰glise-et-du-PresbytÃ¨re-de-Saint-Jean-Chrysostome",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93382&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Chaudière-Appalaches",
-"Municipalite": "Lévis",
+"Region": "ChaudiÃ¨re-Appalaches",
+"Municipalite": "LÃ©vis",
 "Adresse": "",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12397?id=8ab5d9733978b0f7013978c3b885382a",
-"Droits_image": "Jean-François Rodrigue 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -1993,7 +1993,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-Notre-Dame-de-La-Baie",
+"Nom": "Site du patrimoine de l'Ã‰glise-Notre-Dame-de-La-Baie",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93595&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -2003,7 +2003,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13205?id=8ab5d9733978b0f7013978b6a01a3074",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2015,7 +2015,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-Saint-Andrew-et-Saint-John",
+"Nom": "Site du patrimoine de l'Ã‰glise-Saint-Andrew-et-Saint-John",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105339&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -2037,11 +2037,11 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-Saint-Christophe-d'Arthabaska",
+"Nom": "Site du patrimoine de l'Ã‰glise-Saint-Christophe-d'Arthabaska",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105903&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Centre-du-Québec",
+"Region": "Centre-du-QuÃ©bec",
 "Municipalite": "Victoriaville",
 "Adresse": " rue Laurier Ouest",
 "Construction": "",
@@ -2059,7 +2059,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-Saint-James-the-Apostle",
+"Nom": "Site du patrimoine de l'Ã‰glise-Saint-James-the-Apostle",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105403&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -2069,7 +2069,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/23836?id=8ab5d9733978b0f7013978e46ca40ee0",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2081,11 +2081,11 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'Église-Sainte-Victoire",
+"Nom": "Site du patrimoine de l'Ã‰glise-Sainte-Victoire",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105904&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Centre-du-Québec",
+"Region": "Centre-du-QuÃ©bec",
 "Municipalite": "Victoriaville",
 "Adresse": " rue Notre-Dame Ouest",
 "Construction": "",
@@ -2103,7 +2103,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de l'hôtel de ville",
+"Nom": "Site du patrimoine de l'hÃ´tel de ville",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=99058&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -2113,7 +2113,7 @@
 "Construction": "1931",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/15080?id=8ab5d9733978b0f7013978be3f2f7a78",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2130,12 +2130,12 @@
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Mauricie",
-"Municipalite": "Trois-Rivières",
+"Municipalite": "Trois-RiviÃ¨res",
 "Adresse": "",
 "Construction": "",
-"Fonction": "Usines de pâtes et papiers",
+"Fonction": "Usines de pÃ¢tes et papiers",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/36436?id=8ab5d9733978b0f701397923f5882891",
-"Droits_image": "Rémy Darith Chhem 2009 © Ministère de la Culture et des Communications"
+"Droits_image": "RÃ©my Darith Chhem 2009 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2169,17 +2169,17 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de la Côte-de-la-Fabrique-de-Bagotville",
+"Nom": "Site du patrimoine de la CÃ´te-de-la-Fabrique-de-Bagotville",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93587&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Saguenay--Lac-Saint-Jean",
 "Municipalite": "Saguenay",
-"Adresse": "410 à 458 boulevard de la Grande-Baie Sud",
+"Adresse": "410 Ã  458 boulevard de la Grande-Baie Sud",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13192?id=8ab5d9733978b0f7013978b6b1ab311e",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2191,17 +2191,17 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de la Côte-des-Érables",
+"Nom": "Site du patrimoine de la CÃ´te-des-Ã‰rables",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=109877&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Capitale-Nationale",
-"Municipalite": "Québec",
+"Municipalite": "QuÃ©bec",
 "Adresse": "",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/30752?id=8ab5d9733978b0f70139791936963676",
-"Droits_image": "Christian Lemire 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Christian Lemire 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2223,7 +2223,7 @@
 "Construction": "vers 1900",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/15015?id=8ab5d9733978b0f7013978be7fab7dbc",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2235,7 +2235,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de la Maison-Bélair",
+"Nom": "Site du patrimoine de la Maison-BÃ©lair",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=99057&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -2245,7 +2245,7 @@
 "Construction": "vers 1915",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/15077?id=8ab5d9733978b0f7013978be42bd7aaa",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2264,10 +2264,10 @@
 "Region": "Laurentides",
 "Municipalite": "Deux-Montagnes",
 "Adresse": "1506 chemin d'Oka",
-"Construction": "après 1820",
+"Construction": "aprÃ¨s 1820",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/15087?id=8ab5d9733978b0f7013978be391b7a2c",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2283,13 +2283,13 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=99576&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montérégie",
+"Region": "MontÃ©rÃ©gie",
 "Municipalite": "Vaudreuil-Dorion",
 "Adresse": "150 chemin des Chenaux",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/15929?id=8ab5d9733978b0f7013978dd8bb94b8d",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2311,7 +2311,7 @@
 "Construction": "vers 1830",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/15090?id=8ab5d9733978b0f7013978be358979fa",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2323,17 +2323,17 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de la Maison-Félix-Leclerc",
+"Nom": "Site du patrimoine de la Maison-FÃ©lix-Leclerc",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=105540&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montérégie",
+"Region": "MontÃ©rÃ©gie",
 "Municipalite": "Vaudreuil-Dorion",
 "Adresse": "186 chemin de l'Anse",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/24056?id=8ab5d9733978b0f70139790091d237b3",
-"Droits_image": "Jean-François Rodrigue 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2351,11 +2351,11 @@
 "Categorie": "Site patrimonial",
 "Region": "Saguenay--Lac-Saint-Jean",
 "Municipalite": "Saguenay",
-"Adresse": "2631 à 2813 rue Monseigneur-Dufour, 1051 à 1113 rue Bergeron, 2780 à 2835 rue Roy",
+"Adresse": "2631 Ã  2813 rue Monseigneur-Dufour, 1051 Ã  1113 rue Bergeron, 2780 Ã  2835 rue Roy",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13206?id=8ab5d9733978b0f7013978b69dca305a",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2367,7 +2367,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de la Petite-École-Jaune",
+"Nom": "Site du patrimoine de la Petite-Ã‰cole-Jaune",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=99059&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -2377,7 +2377,7 @@
 "Construction": "vers 1937",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/15084?id=8ab5d9733978b0f7013978be3c2f7a52",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2389,13 +2389,13 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de la place de l'église Sacré-Coeur",
+"Nom": "Site du patrimoine de la place de l'Ã©glise SacrÃ©-Coeur",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93651&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Saguenay--Lac-Saint-Jean",
 "Municipalite": "Saguenay",
-"Adresse": " rue Bossé",
+"Adresse": " rue BossÃ©",
 "Construction": "",
 "Fonction": "",
 "URL_image": "",
@@ -2411,13 +2411,13 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de la Place-de-l'Église",
+"Nom": "Site du patrimoine de la Place-de-l'Ã‰glise",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93569&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Capitale-Nationale",
-"Municipalite": "Château-Richer",
-"Adresse": " rue de l'Église",
+"Municipalite": "ChÃ¢teau-Richer",
+"Adresse": " rue de l'Ã‰glise",
 "Construction": "",
 "Fonction": "",
 "URL_image": "",
@@ -2433,13 +2433,13 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de la Place-de-l'Église",
+"Nom": "Site du patrimoine de la Place-de-l'Ã‰glise",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=115557&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Bas-Saint-Laurent",
 "Municipalite": "Saint-Bruno-de-Kamouraska",
-"Adresse": " rue de l'Église",
+"Adresse": " rue de l'Ã‰glise",
 "Construction": "",
 "Fonction": "",
 "URL_image": "",
@@ -2455,7 +2455,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de La Poudrière",
+"Nom": "Site du patrimoine de La PoudriÃ¨re",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93373&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -2465,7 +2465,7 @@
 "Construction": "",
 "Fonction": "Fabriques d'armement",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12353?id=8ab5d9733978b0f7013978c3e2263a64",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2477,7 +2477,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de la rue du Séminaire",
+"Nom": "Site du patrimoine de la rue du SÃ©minaire",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93546&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -2487,7 +2487,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13051?id=8ab5d9733978b0f7013978c2bb4f2dae",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2509,7 +2509,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13222?id=8ab5d9733978b0f7013978b68cbe2f96",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2525,13 +2525,13 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=108655&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Gaspésie--Îles-de-la-Madeleine",
+"Region": "GaspÃ©sie--ÃŽles-de-la-Madeleine",
 "Municipalite": "New Richmond",
 "Adresse": " rue de Dartmouth",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/28834?id=8ab5d9733978b0f70139791de5796828",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2553,7 +2553,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12879?id=8ab5d9733978b0f7013978c3525a32f4",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2565,17 +2565,17 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de Petite-Rivière-Saint-François",
+"Nom": "Site du patrimoine de Petite-RiviÃ¨re-Saint-FranÃ§ois",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92858&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Capitale-Nationale",
-"Municipalite": "Petite-Rivière-Saint-François",
+"Municipalite": "Petite-RiviÃ¨re-Saint-FranÃ§ois",
 "Adresse": " rue Principale",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10733?id=8ab5d9733953eaff0139789d8d0a0aea",
-"Droits_image": "Jean-François Rodrigue 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2587,17 +2587,17 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine de Sacré-Coeur",
+"Nom": "Site du patrimoine de SacrÃ©-Coeur",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=98996&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Côte-Nord",
-"Municipalite": "Sacré-Coeur",
+"Region": "CÃ´te-Nord",
+"Municipalite": "SacrÃ©-Coeur",
 "Adresse": "",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/15014?id=8ab5d9733978b0f7013978be82d77de2",
-"Droits_image": "Jean-François Rodrigue 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2613,13 +2613,13 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93494&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montérégie",
+"Region": "MontÃ©rÃ©gie",
 "Municipalite": "Saint-Jean-sur-Richelieu",
 "Adresse": "",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12852?id=8ab5d9733978b0f7013978c36dd23464",
-"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2004 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2635,13 +2635,13 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93507&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Chaudière-Appalaches",
-"Municipalite": "Lévis",
+"Region": "ChaudiÃ¨re-Appalaches",
+"Municipalite": "LÃ©vis",
 "Adresse": " route Marie-Victorin",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12886?id=8ab5d9733978b0f7013978c9948b75d7",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2663,7 +2663,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13158?id=8ab5d9733978b0f7013978b6d2a932b2",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2675,17 +2675,17 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine des Écorceurs-de-l'Anse-à-Benjamin",
+"Nom": "Site du patrimoine des Ã‰corceurs-de-l'Anse-Ã -Benjamin",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93605&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Saguenay--Lac-Saint-Jean",
 "Municipalite": "Saguenay",
-"Adresse": " route de l'Anse-à-Benjamin",
+"Adresse": " route de l'Anse-Ã -Benjamin",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13223?id=8ab5d9733978b0f7013978b688402f58",
-"Droits_image": "Jean-François Rodrigue 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2707,7 +2707,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13199?id=8ab5d9733978b0f7013978b6a72d30b6",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2719,17 +2719,17 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine des Maisons-Ouvrières-de-la-Papeterie-de-Port-Alfred",
+"Nom": "Site du patrimoine des Maisons-OuvriÃ¨res-de-la-Papeterie-de-Port-Alfred",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93590&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Saguenay--Lac-Saint-Jean",
 "Municipalite": "Saguenay",
-"Adresse": " avenue du Port¤ 8e Avenue",
+"Adresse": " avenue du PortÂ¤ 8e Avenue",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13197?id=8ab5d9733978b0f7013978b6aa0d30d0",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2741,17 +2741,17 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine des villas King et Harding et du cimetière familial King et Harding",
+"Nom": "Site du patrimoine des villas King et Harding et du cimetiÃ¨re familial King et Harding",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=111827&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Bas-Saint-Laurent",
-"Municipalite": "Saint-Pacôme",
+"Municipalite": "Saint-PacÃ´me",
 "Adresse": "",
 "Construction": "1903",
 "Fonction": "Villas et maisons bourgeoises (domaine)",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/34823?id=8ab5d9733978b0f70139792c08ac0331",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2773,7 +2773,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13213?id=8ab5d9733978b0f7013978b69620300a",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2785,7 +2785,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine du Barrage-de-la-Rivière-à-Mars",
+"Nom": "Site du patrimoine du Barrage-de-la-RiviÃ¨re-Ã -Mars",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93606&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -2795,7 +2795,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13228?id=8ab5d9733978b0f7013978b686dd2f4a",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2817,7 +2817,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12623?id=8ab5d9733978b0f7013978c04acf1350",
-"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2004 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2839,7 +2839,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/98362?id=8ab5d9733978b0f701397a757a1f4720",
-"Droits_image": "Andréane Beloin 2011 © Ministère de la Culture et des Communications"
+"Droits_image": "AndrÃ©ane Beloin 2011 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2851,17 +2851,17 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine du Collège-Saint-Alexandre",
+"Nom": "Site du patrimoine du CollÃ¨ge-Saint-Alexandre",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=92807&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Outaouais",
 "Municipalite": "Gatineau",
-"Adresse": " chemin des Érables¤ rue Saint-Louis",
+"Adresse": " chemin des Ã‰rablesÂ¤ rue Saint-Louis",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10518?id=8ab5d9733953eaff013978a174c41540",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2877,13 +2877,13 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93383&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Chaudière-Appalaches",
+"Region": "ChaudiÃ¨re-Appalaches",
 "Municipalite": "Saint-Vallier",
 "Adresse": " chemin Lemieux",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12402?id=8ab5d9733978b0f7013978c3b5b43804",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2895,7 +2895,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine du Manoir-Julien-Édouard-Alfred-Dubuc et du Château-John-Murdoch",
+"Nom": "Site du patrimoine du Manoir-Julien-Ã‰douard-Alfred-Dubuc et du ChÃ¢teau-John-Murdoch",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93545&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -2905,7 +2905,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13047?id=8ab5d9733978b0f7013978c9568f72fd",
-"Droits_image": "Jean-François Rodrigue 2004 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2004 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2917,7 +2917,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine du Monastère-des-Augustines-de-la-Miséricorde-de-Jésus-et-du-Monument-Price",
+"Nom": "Site du patrimoine du MonastÃ¨re-des-Augustines-de-la-MisÃ©ricorde-de-JÃ©sus-et-du-Monument-Price",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=115310&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -2927,7 +2927,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/41867?id=8ab5d9733978b0f7013979566baf6d4a",
-"Droits_image": "Jean-François Rodrigue 2009 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2009 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2943,8 +2943,8 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=99578&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montréal",
-"Municipalite": "Montréal",
+"Region": "MontrÃ©al",
+"Municipalite": "MontrÃ©al",
 "Adresse": "",
 "Construction": "",
 "Fonction": "",
@@ -2971,7 +2971,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/41875?id=8ab5d9733978b0f70139795665636cfc",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -2993,7 +2993,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/24222?id=8ab5d9733978b0f701397905173d65b5",
-"Droits_image": "Jean-François Rodrigue 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3015,7 +3015,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13208?id=8ab5d9733978b0f7013978b69a9e3034",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3027,17 +3027,17 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine du noyau paroissial de Saint-André",
+"Nom": "Site du patrimoine du noyau paroissial de Saint-AndrÃ©",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93642&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Bas-Saint-Laurent",
-"Municipalite": "Saint-André",
+"Municipalite": "Saint-AndrÃ©",
 "Adresse": "",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13317?id=8ab5d9733978b0f7013978bd7d9776ac",
-"Droits_image": "Jean-François Rodrigue 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3059,7 +3059,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13185?id=8ab5d9733978b0f7013978b6b6603152",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3071,7 +3071,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine du Noyau-Institutionnel-de-Saint-Édouard-de-Port-Alfred",
+"Nom": "Site du patrimoine du Noyau-Institutionnel-de-Saint-Ã‰douard-de-Port-Alfred",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93593&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -3081,7 +3081,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13203?id=8ab5d9733978b0f7013978b6a19d3082",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3099,11 +3099,11 @@
 "Categorie": "Site patrimonial",
 "Region": "Saguenay--Lac-Saint-Jean",
 "Municipalite": "Saguenay",
-"Adresse": "1623 rue Sirois¤1694 rue Sirois¤1652 rue Saint-Marc¤1692 rue Sirois",
+"Adresse": "1623 rue SiroisÂ¤1694 rue SiroisÂ¤1652 rue Saint-MarcÂ¤1692 rue Sirois",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13194?id=8ab5d9733978b0f7013978b6acfa30ea",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3125,7 +3125,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/30667?id=8ab5d9733978b0f70139791971ba391c",
-"Droits_image": "Jean-François Rodrigue 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3159,17 +3159,17 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine du Parc-Saint-Frédéric",
+"Nom": "Site du patrimoine du Parc-Saint-FrÃ©dÃ©ric",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93453&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Centre-du-Québec",
+"Region": "Centre-du-QuÃ©bec",
 "Municipalite": "Drummondville",
 "Adresse": "219-227 rue Brock, 226, 228, 234, 242, 246, 276 rue Heriot",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12695?id=8ab5d9733978b0f7013978c009910fd6",
-"Droits_image": "Jean-François Rodrigue 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3191,7 +3191,7 @@
 "Construction": "1893",
 "Fonction": "Ponts couverts",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12386?id=8ab5d9733978b0f7013978c3c32038b4",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3213,7 +3213,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/11697?id=8ab5d9733978b0f7013978c571164d02",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3225,7 +3225,7 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine du Quai-Agésilas-Lepage",
+"Nom": "Site du patrimoine du Quai-AgÃ©silas-Lepage",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93602&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
@@ -3235,7 +3235,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13216?id=8ab5d9733978b0f7013978b691f72fd6",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3257,7 +3257,7 @@
 "Construction": "1903",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13214?id=8ab5d9733978b0f7013978b694032ff0",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3279,7 +3279,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10538?id=8ab5d9733953eaff0139789fdcad13f2",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3291,12 +3291,12 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine du secteur institutionnel de l'Église-Saint-Édouard",
+"Nom": "Site du patrimoine du secteur institutionnel de l'Ã‰glise-Saint-Ã‰douard",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=126023&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Bas-Saint-Laurent",
-"Municipalite": "Les Méchins",
+"Municipalite": "Les MÃ©chins",
 "Adresse": " rue Principale",
 "Construction": "",
 "Fonction": "",
@@ -3317,8 +3317,8 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=188156&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montréal",
-"Municipalite": "Montréal",
+"Region": "MontrÃ©al",
+"Municipalite": "MontrÃ©al",
 "Adresse": "",
 "Construction": "",
 "Fonction": "",
@@ -3341,11 +3341,11 @@
 "Categorie": "Site patrimonial",
 "Region": "Saguenay--Lac-Saint-Jean",
 "Municipalite": "Saguenay",
-"Adresse": "803 à 915 rue de la Fabrique",
+"Adresse": "803 Ã  915 rue de la Fabrique",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13189?id=8ab5d9733978b0f7013978b6b33f312c",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3363,11 +3363,11 @@
 "Categorie": "Site patrimonial",
 "Region": "Saguenay--Lac-Saint-Jean",
 "Municipalite": "Saguenay",
-"Adresse": "751 à 1002 rue de Victoria",
+"Adresse": "751 Ã  1002 rue de Victoria",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13183?id=8ab5d9733978b0f7013978b6ba723184",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3389,7 +3389,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13211?id=8ab5d9733978b0f7013978b699163026",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3407,11 +3407,11 @@
 "Categorie": "Site patrimonial",
 "Region": "Saguenay--Lac-Saint-Jean",
 "Municipalite": "Saguenay",
-"Adresse": "3471 à 3662 boulevard de la Grande-Baie Sud, 1022à1053 rue Saint-Pascal",
+"Adresse": "3471 Ã  3662 boulevard de la Grande-Baie Sud, 1022Ã 1053 rue Saint-Pascal",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13212?id=8ab5d9733978b0f7013978b6976b3018",
-"Droits_image": "Steve Potvin 2006 © Ministère de la Culture et des Communications"
+"Droits_image": "Steve Potvin 2006 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3428,12 +3428,12 @@
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Bas-Saint-Laurent",
-"Municipalite": "Rivière-du-Loup",
+"Municipalite": "RiviÃ¨re-du-Loup",
 "Adresse": "",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12383?id=8ab5d9733978b0f7013978c3c77038f2",
-"Droits_image": "Euchariste Morin 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Euchariste Morin 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3449,13 +3449,13 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93380&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Chaudière-Appalaches",
+"Region": "ChaudiÃ¨re-Appalaches",
 "Municipalite": "Beaumont",
 "Adresse": " chemin du Domaine",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/12391?id=8ab5d9733978b0f7013978c3c120389a",
-"Droits_image": "Jean-François Rodrigue 2008 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2008 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3477,7 +3477,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/41829?id=8ab5d9733978b0f7013979568e1b6ee0",
-"Droits_image": "Andréane Beloin 2011 © Ministère de la Culture et des Communications"
+"Droits_image": "AndrÃ©ane Beloin 2011 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3499,7 +3499,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13079?id=8ab5d9733978b0f7013978c29d342c62",
-"Droits_image": "Jean-François Rodrigue 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3521,7 +3521,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10512?id=8ab5d9733953eaff013978a1ae2b1566",
-"Droits_image": "Sylvain Lizotte 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Sylvain Lizotte 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3543,7 +3543,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13093?id=8ab5d9733978b0f7013978c28e8a2ba8",
-"Droits_image": "Jean-François Rodrigue 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3560,7 +3560,7 @@
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Bas-Saint-Laurent",
-"Municipalite": "Rivière-du-Loup",
+"Municipalite": "RiviÃ¨re-du-Loup",
 "Adresse": "116 rue Hayward",
 "Construction": "",
 "Fonction": "",
@@ -3577,12 +3577,12 @@
 
 },
 "properties": {
-"Nom": "Site du patrimoine religieux de la paroisse de Saint-François-Xavier",
+"Nom": "Site du patrimoine religieux de la paroisse de Saint-FranÃ§ois-Xavier",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=125316&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Bas-Saint-Laurent",
-"Municipalite": "Rivière-du-Loup",
+"Municipalite": "RiviÃ¨re-du-Loup",
 "Adresse": " rue Delage",
 "Construction": "",
 "Fonction": "",
@@ -3604,7 +3604,7 @@
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Bas-Saint-Laurent",
-"Municipalite": "Rivière-du-Loup",
+"Municipalite": "RiviÃ¨re-du-Loup",
 "Adresse": " rue Alexandre",
 "Construction": "",
 "Fonction": "",
@@ -3626,7 +3626,7 @@
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Bas-Saint-Laurent",
-"Municipalite": "Rivière-du-Loup",
+"Municipalite": "RiviÃ¨re-du-Loup",
 "Adresse": " rue Lafontaine",
 "Construction": "",
 "Fonction": "",
@@ -3648,7 +3648,7 @@
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
 "Region": "Bas-Saint-Laurent",
-"Municipalite": "Rivière-du-Loup",
+"Municipalite": "RiviÃ¨re-du-Loup",
 "Adresse": " rue du Domaine",
 "Construction": "",
 "Fonction": "",
@@ -3675,7 +3675,7 @@
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/10724?id=8ab5d9733953eaff0139789d96670b44",
-"Droits_image": "Mélie Monnerat 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "MÃ©lie Monnerat 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3691,10 +3691,10 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=159651&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Abitibi-Témiscamingue",
+"Region": "Abitibi-TÃ©miscamingue",
 "Municipalite": "Val-d'Or",
 "Adresse": "90 avenue Perrault",
-"Construction": "après 1934",
+"Construction": "aprÃ¨s 1934",
 "Fonction": "",
 "URL_image": "",
 "Droits_image": ""
@@ -3709,11 +3709,11 @@
 
 },
 "properties": {
-"Nom": "Site patrimonial de la Cabane-à-Eudore",
+"Nom": "Site patrimonial de la Cabane-Ã -Eudore",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=116414&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Gaspésie--Îles-de-la-Madeleine",
+"Region": "GaspÃ©sie--ÃŽles-de-la-Madeleine",
 "Municipalite": "Carleton-sur-Mer",
 "Adresse": "",
 "Construction": "",
@@ -3735,7 +3735,7 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93263&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Gaspésie--Îles-de-la-Madeleine",
+"Region": "GaspÃ©sie--ÃŽles-de-la-Madeleine",
 "Municipalite": "Port-Daniel--Gascons",
 "Adresse": " route 132",
 "Construction": "",
@@ -3753,11 +3753,11 @@
 
 },
 "properties": {
-"Nom": "Site Philippe-Aubert-de-Gaspé",
+"Nom": "Site Philippe-Aubert-de-GaspÃ©",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=97579&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Chaudière-Appalaches",
+"Region": "ChaudiÃ¨re-Appalaches",
 "Municipalite": "Saint-Jean-Port-Joli",
 "Adresse": "",
 "Construction": "",
@@ -3775,12 +3775,12 @@
 
 },
 "properties": {
-"Nom": "Vieux Village de Rivière-des-Prairies",
+"Nom": "Vieux Village de RiviÃ¨re-des-Prairies",
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93515&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montréal",
-"Municipalite": "Montréal",
+"Region": "MontrÃ©al",
+"Municipalite": "MontrÃ©al",
 "Adresse": "",
 "Construction": "",
 "Fonction": "",
@@ -3801,13 +3801,13 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93556&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montérégie",
+"Region": "MontÃ©rÃ©gie",
 "Municipalite": "Boucherville",
 "Adresse": "",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/13104?id=8ab5d9733978b0f7013978c283772b14",
-"Droits_image": "Jean-François Rodrigue 2007 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2007 Â© MinistÃ¨re de la Culture et des Communications"
 }
 },{"type": "Feature",
 "geometry": {
@@ -3823,13 +3823,13 @@
 "URL_RPCQ": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/detail.do?methode=consulter&id=93093&type=bien",
 "Statut": "Citation",
 "Categorie": "Site patrimonial",
-"Region": "Montérégie",
+"Region": "MontÃ©rÃ©gie",
 "Municipalite": "Longueuil",
 "Adresse": "",
 "Construction": "",
 "Fonction": "",
 "URL_image": "http://www.patrimoine-culturel.gouv.qc.ca/rpcq/gedServlet/11615?id=8ab5d9733978b0f7013978c1066a1dbe",
-"Droits_image": "Jean-François Rodrigue 2005 © Ministère de la Culture et des Communications"
+"Droits_image": "Jean-FranÃ§ois Rodrigue 2005 Â© MinistÃ¨re de la Culture et des Communications"
 }
 }
 ]

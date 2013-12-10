@@ -1,0 +1,218 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Photos du patrimoine</title>
+	
+	<link href='http://fonts.googleapis.com/css?family=Gudea' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/style.css">
+
+	<script type="text/javascript" src="http://media.scraperwiki.com/js/jquery-1.5.2.min.js"></script>
+	<!-- Leaflet -->
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css">
+	<!--[if lte IE 8]>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css">
+	<![endif]-->
+	<script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+	<!-- /Leaflet -->
+	<!-- UserMarker for Leaflet -->
+	<script type="text/javascript" src="usermarker/leaflet.usermarker.js"></script>
+	<link rel="stylesheet" href="usermarker/leaflet.usermarker.css">
+	<!-- /UserMarker for Leaflet -->
+	
+	<!-- Reveal fenetre modal -->
+	<link rel="stylesheet" href="reveal_modal/reveal.css">
+	<script type="text/javascript" src="reveal_modal/jquery.reveal.js"></script>
+	<!-- /Reveal fenetre modal -->
+	
+</head>
+
+<body>
+
+	<div id="map" style="position: absolute; float: left;width: 98%; height: 98%;"></div>
+
+	<div id="myModal" class="reveal-modal">
+		
+		<div id="rpcq"></div>
+			
+		<div id="flickr"></div>
+		
+		<div id="foursquare"></div>
+		
+		<a class="close-reveal-modal">&#215;</a>
+	</div>
+
+
+<script type="text/javascript">
+
+
+	
+var lat=47.5
+var lon=-71.214153
+var zoom=6
+		
+var map = L.map('map').setView([lat, lon], zoom);
+
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+	attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+		
+
+
+		
+	//style des markers
+	var geojsonMarkerOptions = {
+		radius: 8,
+		fillColor: "#ff7800",
+		color: "#000",
+		weight: 1,
+		opacity: 1,
+		fillOpacity: 0.8
+	};
+
+	// Contenu des popups 
+	function onEachFeature(feature, layer) {   
+		
+		var nom = feature.properties.Nom;
+		var categorie = feature.properties.Categorie;
+		var region = feature.properties.Region;
+		var image = feature.properties.URL_image;
+		var url = feature.properties.URL_RPCQ;
+		var droits = feature.properties.Droits_image;
+		var coord = feature.geometry.coordinates
+		  
+		layer.bindPopup($('<a href="#" data-reveal-id="myModal">'+nom+'</a>').click(function(){
+		
+			document.getElementById('rpcq').innerHTML = '<h1>'+nom+'</h1><p>'+categorie+'<br>'+region+'</p>Photo du RPCQ :<hr><a href="'+url+'"><img src="'+image+'" style="max-width:90%;"></a><br>'+droits+'<a class="close-reveal-modal">&#215;</a>';
+			
+
+		getFlickr(nom, coord);
+		getFoursquare(nom, coord);
+		})[0]);
+		
+	}	
+
+// Loader en ajax chacun des 4 fichiers	
+
+	// 1
+	$.getJSON("FichiersGeoJSON/GeoJSON_MCC_IP_CI.json", function(data) {
+			
+
+		var geojsonLayer = new L.GeoJSON(data, { 
+			pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, geojsonMarkerOptions);
+			},
+			 onEachFeature: onEachFeature
+
+		});	
+		map.addLayer(geojsonLayer);				
+		
+		
+	});
+
+	// 2
+	$.getJSON("FichiersGeoJSON/GeoJSON_MCC_IP_CL.json", function(data) {
+		
+
+		var geojsonLayer2 = new L.GeoJSON(data, { 
+			pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, geojsonMarkerOptions);
+			},
+			 onEachFeature: onEachFeature
+
+		});	
+		map.addLayer(geojsonLayer2);			
+
+	});
+	
+	// 3
+	$.getJSON("FichiersGeoJSON/GeoJSON_MCC_SP_CI.json", function(data) {
+		
+
+		var geojsonLayer3 = new L.GeoJSON(data, { 
+			pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, geojsonMarkerOptions);
+			},
+			 onEachFeature: onEachFeature
+
+		});	
+		map.addLayer(geojsonLayer3);			
+
+	});
+	
+	// 4
+	$.getJSON("FichiersGeoJSON/GeoJSON_MCC_SP_CL.json", function(data) {
+		
+
+		var geojsonLayer4 = new L.GeoJSON(data, { 
+			pointToLayer: function (feature, latlng) {
+				return L.circleMarker(latlng, geojsonMarkerOptions);
+			},
+			 onEachFeature: onEachFeature
+
+		});	
+		map.addLayer(geojsonLayer4);			
+
+	});
+
+	
+	// Usermarker
+	map.on("locationfound", function(location) {
+		//if (!marker)
+			marker = L.userMarker(location.latlng,{pulsing:true}).addTo(map);
+
+		marker.setLatLng(location.latlng);
+		marker.setAccuracy(200);
+	});
+	map.locate({
+		watch: false,
+		locate: true,
+		setView: true,
+		enableHighAccuracy: false
+	});
+	
+	function getFlickr (nom, coord){
+	// TODO
+	/*	document.getElementById('flickr').innerHTML = '<br>Photos de Flickr: '+nom+'<hr>';	
+		$.getJSON("http://api.flickr.com/services/rest/?method=flickr.test.echo&name=", function(data) {
+			alert (data);
+		});
+	*/	
+	}
+	
+	function getFoursquare (nom, coord){
+	// TODO	
+	/*		
+		$.getJSON("https://api.foursquare.com/v2/venues/search?ll="+coord+"&radius=100000&intent=checkin&client_id=METTRE_CLIENT_ID_ICI&client_secret=METTRE_CLIENT_SECRET_ICI&v=20120321", function(data) {
+		 
+			for (var i=0;i<data.response.venues.length;i++){
+				identifiant= data.response.venues[i].id;
+				
+				$.getJSON("https://api.foursquare.com/v2/venues/"+identifiant+"/photos?client_id=METTRE_CLIENT_ID_ICI&client_secret=METTRE_CLIENT_SECRET_ICI&v=20120321", function(data) {
+					
+					for (var b=0;b<data.response.photos.groups.length;b++){
+								
+					//	for (var c=0;c<data.response.photos.groups[b].items.length;c++){
+					if(data.response.photos.groups[b].items.length>1){
+							var images = data.response.photos.groups[b].items[1].url;
+							var imagefs = imagefs+images;
+																
+						//}
+						}
+					
+					document.getElementById('foursquare').innerHTML = '<br>Photos de Foursquare : '+nom+'<hr>'+imagefs+'';
+						
+					}		
+				});
+			
+			};
+		});
+	*/
+	}
+	
+	</script>
+
+</body>
+
+</html>
