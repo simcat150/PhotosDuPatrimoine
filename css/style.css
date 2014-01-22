@@ -1,9 +1,28 @@
 body{
+	margin:0;
+	padding:0;
 	height:100%; 
 	width:100%;
-	font-family:Gudea;
+	font-family:'Ubuntu', sans-serif;
+	color:#000;
 }
 
+img{
+	border:none;
+}
 .surligne{
 	background-color:#eee;
+}
+
+.copyright{
+	font-size:10px;
+}
+h1{
+	font-size:24px;
+	font-weight:normal;
+}
+
+p{
+
+letter-spacing:1px;
 }
