@@ -2,6 +2,7 @@ var lat=47.5
 var lon=-71.214153
 var zoom=6
 
+var flickerApiKey = "ed39a00efad587afc2cb3e249043ad67";
 var mwjs = MediaWikiJS({baseURL: 'https://commons.wikimedia.org', apiPath: '/w/api.php'});
 
 var map = L.map('map').setView([lat, lon], zoom);
@@ -199,10 +200,24 @@ function getWikimedia(nom, coord){
 
 function getFlickr (nom, coord){
   // TODO Ici appeler Flickr
-  //document.getElementById('flickr').innerHTML = '<br>Photos de Flickr: '+nom+'<hr>';	
-  //$.getJSON("http://api.flickr.com/services/rest/?method=flickr.test.echo&name=", function(data) {
-  //	alert (data);
-  //});
+  var div = $("#flickr");
+  $.getJSON("https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key="+flickerApiKey+"&lat="+coord[1]+"&lon="+coord[0]+"&radius=0.05&format=json&nojsoncallback=1", 
+  function(data) {
+    var photos = data.photos.photo;
+    if(photos.length > 0){
+      div.html('<br><h1>Photos de Flickr: '+nom+'</h1><hr>');	
+      photos.forEach(function(photo){
+        $.getJSON("https://api.flickr.com/services/rest/?method=flickr.photos.getInfo&api_key="+flickerApiKey+"&photo_id="+photo.id+"&format=json&nojsoncallback=1", 
+          function(data){
+            div.append("<h3>"+data.photo.title._content+"</h3>");
+            // div.append('<img src="'+data.photo.urls.url[0]._content+'" style="width:50%" ><br/>');
+            console.log(data);
+          });
+      });
+    }
+    else
+      div.html("");
+  });
 }
 
 function getFoursquare (nom, coord){
