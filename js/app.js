@@ -52,19 +52,23 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 	// Contenu des popups 
 	function onEachFeature(feature, layer) {   
 		
-		var nom = feature.properties.Nom;
-		var categorie = feature.properties.Categorie;
-		var region = feature.properties.Region;
-		var image = feature.properties.URL_image;
-		var url = feature.properties.URL_RPCQ;
-		var droits = feature.properties.Droits_image;
+		var nom = feature.properties.nom_bien;
+		var categorie = feature.properties.categorie;
+		var classement = feature.properties.statut_juridique;
+		var region = feature.properties.region_admin;
+		var image = feature.properties.url_photo;
+		var url = feature.properties.url_rpcq;
+		var licence = feature.properties.licence_photo;
+		var auteur = feature.properties.auteur_photo;
+		var annee = feature.properties.date_licence_photo;
+		var detenteur = feature.properties.detenteur_photo;
 		var coord = feature.geometry.coordinates
 		  
 		layer.bindPopup($('<a href="#" data-reveal-id="myModal">'+nom+'</a>').click(function(){
 			if (image.length>0){
-				document.getElementById('rpcq').innerHTML = '<h1>'+nom+'</h1><p>'+categorie+'<br>'+region+'</p>Photo du RPCQ :<hr><a href="'+url+'"><img src="'+image+'" style="max-width:90%;"></a><br><span class="copyright">'+droits+'</span><a class="close-reveal-modal">&#215;</a>';
+				document.getElementById('rpcq').innerHTML = '<h1>'+nom+'</h1><a href="'+url+'">'+url+'</a><p>Catégorie : '+categorie+'<br>Statut juridique : '+classement+'<br>Région : '+region+'</p><h1>Photo du Répertoire du patrimoine culturel du Québec :</h1><hr><img src="'+image+'" style="max-width:90%;"><br><span class="copyright">'+licence+annee+'</span><a class="close-reveal-modal">&#215;</a>';
 			}else{
-				document.getElementById('rpcq').innerHTML = '<h1>'+nom+'</h1><p>'+categorie+'<br>'+region+'</p><a class="close-reveal-modal">&#215;</a>';
+				document.getElementById('rpcq').innerHTML = '<h1>'+nom+'</h1><a href="'+url+'">'+url+'</a><p>Catégorie : '+categorie+'<br>Statut juridique : '+classement+'<br>Région : '+region+'</p><a class="close-reveal-modal">&#215;</a>';
 			}
 
     getWikimedia(nom, coord);
@@ -77,7 +81,7 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 // Loader en ajax chacun des 4 fichiers	
 
 	// 1
-	$.getJSON("FichiersGeoJSON/GeoJSON_MCC_IP_CI.json", function(data) {
+	$.getJSON("FichiersGeoJSON/Donnees_ouvertes_MCC_IP_CI_v3.json", function(data) {
 
 		 var geojsonLayer = new L.GeoJSON(data, { 
 			pointToLayer: function (feature, latlng) {
@@ -93,7 +97,7 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 	
 
 	// 2
-	$.getJSON("FichiersGeoJSON/GeoJSON_MCC_IP_CL.json", function(data) {
+	$.getJSON("FichiersGeoJSON/Donnees_ouvertes_MCC_IP_CL_v5.json", function(data) {
 		
 		var geojsonLayer2 = new L.GeoJSON(data, { 
 			pointToLayer: function (feature, latlng) {
@@ -108,7 +112,7 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 	});
 	
 	// 3
-	$.getJSON("FichiersGeoJSON/GeoJSON_MCC_SP_CI.json", function(data) {
+	$.getJSON("FichiersGeoJSON/Donnees_ouvertes_MCC_SP_CI_v3.json", function(data) {
 		
 		var geojsonLayer3 = new L.GeoJSON(data, { 
 			pointToLayer: function (feature, latlng) {
@@ -123,7 +127,7 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 	});
 	
 	// 4
-	$.getJSON("FichiersGeoJSON/GeoJSON_MCC_SP_CL.json", function(data) {
+	$.getJSON("FichiersGeoJSON/Donnees_ouvertes_MCC_SP_CL_v5.json", function(data) {
 		
 		var geojsonLayer4 = new L.GeoJSON(data, { 
 			pointToLayer: function (feature, latlng) {
@@ -132,7 +136,7 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 			 onEachFeature: onEachFeature
 
 		});	
-		var nom = 'Sites patrimoniaux déclarés';
+		var nom = 'Sites patrimoniaux classés';
 	//	map.addLayer(geojsonLayer4);			
 		ajoutlayer(geojsonLayer4, nom);
 	});
@@ -187,9 +191,9 @@ function getWikimedia(nom, coord){
     if(images.length > 0){
       div.html("<h1>Wikimedia</h1> <hr/>");
       images.forEach(function(image){
-        div.append("<h2>"+image.name+"</h2>");
+        div.append("<h3>"+image.name+"</h3>");
         div.append('<img src="'+image.url+'" style="width:50%" ><br/>');
-        div.append(image.extmetadata.Artist.value +' '+ image.extmetadata.DateTimeOriginal.value +' <a href="'+image.extmetadata.LicenseUrl.value+'">'+image.extmetadata.License.value+'</a>');
+        div.append(image.extmetadata.Artist.value +', '+ image.extmetadata.DateTimeOriginal.value +' <a href="'+image.extmetadata.LicenseUrl.value+'">'+image.extmetadata.License.value+'</a>');
       });
     }
     else
