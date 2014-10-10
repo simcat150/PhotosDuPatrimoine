@@ -8,7 +8,9 @@
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="css/style.css">
 
-	<script type="text/javascript" src="http://media.scraperwiki.com/js/jquery-1.5.2.min.js"></script>
+	<script type="text/javascript" src="lib/jquery-1.11.1.min.js"></script>
+	<link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css">
+	<script type="text/javascript" src="lib/bootstrap/js/bootstrap.min.js"></script>
 	<!-- Leaflet -->
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css">
 	<!--[if lte IE 8]>
@@ -38,6 +40,23 @@
 <div id="myModal" class="reveal-modal">
 
   <div id="rpcq"></div>
+
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs" role="tablist">
+    <li class="active"><a href="#home" role="tab" data-toggle="tab">Home</a></li>
+    <li><a href="#profile" role="tab" data-toggle="tab">Profile</a></li>
+    <li><a href="#messages" role="tab" data-toggle="tab">Messages</a></li>
+    <li><a href="#settings" role="tab" data-toggle="tab">Settings</a></li>
+  </ul>
+
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div class="tab-pane active" id="home">...</div>
+    <div class="tab-pane" id="profile">...</div>
+    <div class="tab-pane" id="messages">...</div>
+    <div class="tab-pane" id="settings">...</div>
+  </div>
+
 
   <div id="wikimedia"></div>
 
