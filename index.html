@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -11,6 +11,7 @@
 	<script type="text/javascript" src="lib/jquery-1.11.1.min.js"></script>
 	<link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css">
 	<script type="text/javascript" src="lib/bootstrap/js/bootstrap.min.js"></script>
+    
 	<!-- Leaflet -->
 	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css">
 	<!--[if lte IE 8]>
@@ -19,14 +20,9 @@
 	<script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
 	<!-- /Leaflet -->
 	<!-- UserMarker for Leaflet -->
-	<script type="text/javascript" src="js/usermarker/leaflet.usermarker.js"></script>
-	<link rel="stylesheet" href="js/usermarker/leaflet.usermarker.css">
+	<script type="text/javascript" src="lib/usermarker/leaflet.usermarker.js"></script>
+	<link rel="stylesheet" href="lib/usermarker/leaflet.usermarker.css">
 	<!-- /UserMarker for Leaflet -->
-	
-	<!-- Reveal fenetre modal -->
-	<link rel="stylesheet" href="lib/reveal_modal/reveal.css">
-	<script type="text/javascript" src="lib/reveal_modal/jquery.reveal.js"></script>
-	<!-- /Reveal fenetre modal -->
 
   <!-- Librairie MediawikiJS.js  -->
 	<script type="text/javascript" src="lib/MediawikiJS.js"></script>
@@ -37,38 +33,37 @@
 
 <div id="map" style="position: absolute; float: left;width: 100%; height: 100%;"></div>
 
-<div id="myModal" class="reveal-modal">
+<div id="mymodal" class="modal modal-wide fade" role="dialog" tabindex="-1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <div class="clearfix"></div>
+            </div>
+            <div class="modal-body">    
+                <div id="info"></div>
 
-  <div id="rpcq"></div>
+                  <!-- Nav tabs -->
+                  <ul class="nav nav-tabs" role="tablist">
+                    <li class="toggler" id="tg-rpcq"><a href="#rpcq" role="tab" data-toggle="tab">RPCQ</a></li>
+                    <li class="toggler" id="tg-wikimedia"><a href="#wikimedia" role="tab" data-toggle="tab">Wikimedia</a></li>
+                    <li class="toggler" id="tg-flickr"><a href="#flickr" role="tab" data-toggle="tab">Flickr</a></li>
+                  </ul>
 
-  <!-- Nav tabs -->
-  <ul class="nav nav-tabs" role="tablist">
-    <li class="active"><a href="#home" role="tab" data-toggle="tab">Home</a></li>
-    <li><a href="#profile" role="tab" data-toggle="tab">Profile</a></li>
-    <li><a href="#messages" role="tab" data-toggle="tab">Messages</a></li>
-    <li><a href="#settings" role="tab" data-toggle="tab">Settings</a></li>
-  </ul>
-
-  <!-- Tab panes -->
-  <div class="tab-content">
-    <div class="tab-pane active" id="home">...</div>
-    <div class="tab-pane" id="profile">...</div>
-    <div class="tab-pane" id="messages">...</div>
-    <div class="tab-pane" id="settings">...</div>
-  </div>
-
-
-  <div id="wikimedia"></div>
-
-  <div id="flickr"></div>
-
-  <div id="foursquare"></div>
-
-  <a class="close-reveal-modal">&#215;</a>
+                  <!-- Tab panes -->
+                  <div class="tab-content">
+                    <div class="tab-pane" id="rpcq"></div>
+                    <div class="tab-pane" id="wikimedia"></div>
+                    <div class="tab-pane" id="flickr"></div>
+                  </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 </body>
 
 <!-- Javascript principal  -->
 <script type="text/javascript" src="js/app.js"></script>
+<script type="text/javascript" src="js/loaddata.js"></script>
 </html>
