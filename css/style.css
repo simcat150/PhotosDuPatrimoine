@@ -23,6 +23,13 @@ h1{
 }
 
 p{
-
 letter-spacing:1px;
+}
+
+/* Modal size */
+.modal.modal-wide .modal-dialog {
+  width: 90%;
+}
+.modal-wide .modal-body {
+  overflow-y: auto;
 }
