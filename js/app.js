@@ -81,9 +81,11 @@ var geojsonMarkerOptions6 = {
 
 // Récupere les données sur wikimedia
 function getWikimedia(nom, coord) {
+  var div = $("#wikimedia");
+  div.html('<img src="img/loading-spokes.svg" alt="Loading icon" width=64 class="center-block"/>');
+  div.append('<h3 class="text-center">Chargement...</h3>');
     mwjs.send({action: 'query', list: 'allimages', aiprefix: nom, aiprop: "url|extmetadata" }, function (data) {
-        var images  = data.query.allimages,
-            div = $("#wikimedia");
+        var images  = data.query.allimages;
         if (images.length > 0) {
             div.html("<h1>Wikimedia</h1> <hr/>");
             images.forEach(function (image) {
@@ -93,7 +95,7 @@ function getWikimedia(nom, coord) {
                 div.append(imgmeta.Artist.value + ', ' + imgmeta.DateTimeOriginal.value + ' <a href="' + imgmeta.LicenseUrl.value + '">' + imgmeta.License.value + '</a>');
             });
         } else {
-            div.html("<h3>Aucune image disponible.</h3>");
+            div.html('<h3 class="text-center" >Aucune image disponible.</h3>');
         }
       
     });
@@ -102,6 +104,8 @@ function getWikimedia(nom, coord) {
 
 function getFlickr(nom, coord) {
     var div = $("#flickr");
+    div.html('<img src="img/loading-spokes.svg" alt="Loading icon" width=64 class="center-block"/>');
+    div.append('<h3 class="text-center">Chargement...</h3>');
     $.getJSON("https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=" + flickerApiKey + "&lat=" + coord[1] + "&lon=" + coord[0] + "&radius=0.05&format=json&nojsoncallback=1",
         function (data) {
             var photos = data.photos.photo;
@@ -134,7 +138,7 @@ function getFlickr(nom, coord) {
                         });
                 });
             } else {
-                div.html("<h3>Aucune image disponible.</h3>");
+                div.html('<h3 class="text-center" >Aucune image disponible.</h3>');
             }
         });
     $("#tg-flickr").off("click");
@@ -167,7 +171,7 @@ function onEachFeature(feature, layer) {
         if (image !== "NULL") {
             $('#rpcq').html('<img src="' + image + '" style="max-width:90%;"><br><span class="copyright">' + licence + annee + '</span>');
         } else {
-            $('#rpcq').html("<h3>Aucune image disponible.</h3>");
+            $("#rpcq").html('<h3 class="text-center" >Aucune image disponible.</h3>');
         }
 
         $("#tg-wikimedia").on("click", function () { getWikimedia(nom, coord); });
